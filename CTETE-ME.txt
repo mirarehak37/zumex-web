@@ -1,0 +1,8 @@
+JAK OTEVŘÍT WEB
+
+1. Rozbalte celý ZIP do složky.
+2. Otevřete soubor index.html dvojklikem.
+
+Není potřeba server ani instalace. Stránky, navigace, obrázky, písma a přiložené PDF fungují offline. Zachovejte strukturu složek.
+
+Externí odkazy (oficiální web Zumex, mapy, registrace produktu) potřebují internet. Odkazy na e-mail a telefon se otevírají v příslušné aplikaci zařízení.
