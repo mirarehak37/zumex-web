@@ -1,0 +1,60 @@
+/* Zumex Česko, design tokeny. Celý web se přebarví tady. */
+@font-face{font-family:"Manrope";src:url("../fonts/manrope-400.woff2") format("woff2");font-weight:400;font-style:normal;font-display:swap}
+@font-face{font-family:"Manrope";src:url("../fonts/manrope-500.woff2") format("woff2");font-weight:500;font-style:normal;font-display:swap}
+@font-face{font-family:"Manrope";src:url("../fonts/manrope-600.woff2") format("woff2");font-weight:600;font-style:normal;font-display:swap}
+@font-face{font-family:"Manrope";src:url("../fonts/manrope-700.woff2") format("woff2");font-weight:700;font-style:normal;font-display:swap}
+@font-face{font-family:"Manrope";src:url("../fonts/manrope-800.woff2") format("woff2");font-weight:800;font-style:normal;font-display:swap}
+
+@font-face{font-family:"Bricolage Grotesque";src:url("../fonts/bricolage-500.woff2") format("woff2");font-weight:500;font-style:normal;font-display:swap}
+@font-face{font-family:"Bricolage Grotesque";src:url("../fonts/bricolage-600.woff2") format("woff2");font-weight:600;font-style:normal;font-display:swap}
+@font-face{font-family:"Bricolage Grotesque";src:url("../fonts/bricolage-700.woff2") format("woff2");font-weight:700;font-style:normal;font-display:swap}
+
+:root{
+  /* Barvy */
+  --bg:#ffffff;
+  --surface:#f4f3f1;
+  --surface-2:#ebe9e5;
+  --ink:#111111;
+  --ink-2:#2b2b2b;
+  --muted:#5e5d59;
+  --line:#e3e1dc;
+  --accent:#ff6a13;
+  --accent-hover:#ee5a05;
+  --accent-soft:#fff1e7;
+  --citron:#d9e4a2;
+  --peach:#ffdccf;
+  --on-accent:#111111;
+  --dark:#131313;
+  --dark-2:#1f1f1f;
+  --dark-line:#2e2e2e;
+  --on-dark:#f5f4f1;
+  --on-dark-muted:#a9a8a3;
+  --success:#2f8f4e;
+  --error:#c8312b;
+
+  /* Písmo */
+  --font:"Manrope",system-ui,-apple-system,"Segoe UI",Arial,sans-serif;
+  --font-head:"Bricolage Grotesque","Manrope",system-ui,Arial,sans-serif;
+  --fs-h1:clamp(38px,5.2vw,64px);
+  --fs-h2:clamp(30px,3.4vw,46px);
+  --fs-h3:clamp(20px,1.8vw,24px);
+  --fs-h4:18px;
+  --fs-lead:clamp(17px,1.4vw,19px);
+  --fs-body:16px;
+  --fs-small:14px;
+  --fs-caption:12.5px;
+
+  /* Mezery */
+  --s-1:4px;--s-2:8px;--s-3:12px;--s-4:16px;--s-5:24px;--s-6:32px;--s-7:48px;--s-8:64px;--s-9:96px;--s-10:128px;
+  --section-y:clamp(72px,9vw,128px);
+  --container:1240px;
+  --gutter:clamp(16px,3vw,32px);
+
+  /* Zaoblení a stíny */
+  --r-sm:10px;--r-md:16px;--r-lg:24px;--r-xl:36px;--r-pill:999px;
+  --shadow-sm:0 1px 2px rgba(17,17,17,.06);
+  --shadow-md:0 14px 34px -16px rgba(17,17,17,.22);
+  --shadow-lg:0 30px 60px -28px rgba(17,17,17,.30);
+
+  --ease:cubic-bezier(.2,.7,.2,1);
+}

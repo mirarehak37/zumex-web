@@ -1,0 +1,4677 @@
+{
+ "products": [
+  {
+   "id": "soul-series-2",
+   "card": {
+    "id": "soul-series-2",
+    "category": "citrusy",
+    "demand": "stredni",
+    "business": "kavarny hotely bary",
+    "search": "Soul Series 2 Soul Series 2 Soul Series 2 Limes edition Soul Series 2 přináší automatické lisování citrusů i na bar, kde je každý centimetr důležitý. Se šířkou 30 cm nabízí čerstvou šťávu na objednávku v kavárně, koktejlovém baru nebo hotelu. Conical System® ovoce před rozříznutím vystředí a připraví pro lisování.",
+    "overline": "Citrusové odšťavňovače",
+    "name": "Soul Series 2",
+    "text": "Soul Series 2 přináší automatické lisování citrusů i na bar, kde je každý centimetr důležitý.",
+    "img": "main0.png",
+    "specs": [
+     [
+      "Výkon M/S",
+      "18 plodů/min"
+     ],
+     [
+      "Výkon XS",
+      "36 limetek/min"
+     ]
+    ]
+   },
+   "title": "Soul Series 2 | Zumex Česko",
+   "desc": "Profesionální odšťavňovače Zumex pro kavárny, hotely, retail i průmyslovou výrobu. Objevte celý svět čerstvé šťávy.",
+   "img": "main0.png",
+   "kategorie": "Citrusové odšťavňovače",
+   "name": "Soul Series 2",
+   "claim": "Malý prostorem. Velký zážitkem.",
+   "perex": "Kompaktní odšťavňovač pro kavárny, bary a hotely. Conical System® zpracovává citrusy šetrně a připojení Wi-Fi vám pomůže sledovat provoz. Pro limetky je k dispozici samostatná edice.",
+   "metrics": [
+    [
+     "18 plodů/min",
+     "Výkon se sadou M/S"
+    ],
+    [
+     "300 × 480 × 537 mm",
+     "Rozměry"
+    ],
+    [
+     "32 kg",
+     "Hmotnost"
+    ]
+   ],
+   "story": [
+    "Soul Series 2 přináší automatické lisování citrusů i na bar, kde je každý centimetr důležitý. Se šířkou 30 cm nabízí čerstvou šťávu na objednávku v kavárně, koktejlovém baru nebo hotelu. Conical System® ovoce před rozříznutím vystředí a připraví pro lisování.",
+    "Podle zvolené sady zpracuje pomeranče, mandarinky, citrony nebo limetky. Systém PulpOut průběžně odstraňuje dužinu a semena; lisovací jednotku lze vyjmout pomocí 1Step Case Out. Wi-Fi propojení se Zumex Connect umožňuje sledovat provoz a upozornění."
+   ],
+   "feats": [
+    "Kompaktní tělo se vejde i na menší bar.",
+    "Výměnné sady pro pomeranče, mandarinky, citrony a limetky.",
+    "Chytré funkce a provozní přehled prostřednictvím Zumex Connect."
+   ],
+   "gallery": [
+    [
+     "g0-0.webp",
+     "Soul Series 2 — produktový detail"
+    ],
+    [
+     "g0-1.webp",
+     "Soul Series 2 — produktový detail"
+    ]
+   ],
+   "variants": [
+    {
+     "name": "Soul Series 2",
+     "text": "Vyberte sadu podle skutečné velikosti ovoce. Limes edition dodává výrobce se sadou XS. Pro provoz mimo bar lze poptat Juice Kart, dávkovač kelímků nebo bezhotovostní modul.",
+     "img": "v0-0.png"
+    },
+    {
+     "name": "Soul Series 2 Limes edition",
+     "text": "Pro limetky se sadou XS; vhodné pro bary a přípravu citrusových základů.",
+     "img": "v0-1.png"
+    }
+   ],
+   "params": [
+    [
+     "Výkon M/S",
+     "18 plodů/min"
+    ],
+    [
+     "Výkon XS",
+     "36 limetek/min"
+    ],
+    [
+     "Rozměry (š × h × v)",
+     "300 × 480 × 537 mm"
+    ],
+    [
+     "Hmotnost",
+     "32 kg"
+    ],
+    [
+     "Zásobník",
+     "3–6 pomerančů / 7–8 limetek"
+    ],
+    [
+     "Průměr ovoce M",
+     "64–81 mm"
+    ],
+    [
+     "Průměr ovoce S",
+     "45–65 mm"
+    ],
+    [
+     "Průměr ovoce XS",
+     "42–52 mm"
+    ],
+    [
+     "Příkon",
+     "100 W | 0,134 HP"
+    ],
+    [
+     "Napájení",
+     "100–240 V, 50–60 Hz"
+    ],
+    [
+     "Odpadní nádoba",
+     "7 l (12–14 pomerančů)"
+    ],
+    [
+     "Připojení",
+     "Wi-Fi"
+    ],
+    [
+     "Typ provozu",
+     "Střední"
+    ],
+    [
+     "Výdej",
+     "Kohoutek Up&Down, proti odkapávání, s vysokým průtokem"
+    ],
+    [
+     "Spotřeba proudu",
+     "3,4 A / 1,5 A"
+    ],
+    [
+     "Hladina akustického tlaku",
+     "Pod 60 dB"
+    ],
+    [
+     "Výška plnění",
+     "115 mm"
+    ],
+    [
+     "Půdorys",
+     "0,14 m²"
+    ]
+   ],
+   "param_note": "Údaje výrobce pro uvedené provedení. Výkon závisí na surovině a konfiguraci.",
+   "source": "https://www.zumex.com/en/juicers/zumex--soul-series-2/",
+   "selection": "Vyberte sadu podle skutečné velikosti ovoce. Limes edition dodává výrobce se sadou XS. Pro provoz mimo bar lze poptat Juice Kart, dávkovač kelímků nebo bezhotovostní modul.",
+   "docs": [
+    [
+     "Oficiální produktová stránka",
+     "https://www.zumex.com/en/juicers/zumex--soul-series-2/"
+    ],
+    [
+     "Dokumentace výrobce 1 · PDF",
+     "dokumentace/zumex-21.pdf"
+    ],
+    [
+     "Dokumentace výrobce 2 · PDF",
+     "dokumentace/zumex-20.pdf"
+    ],
+    [
+     "Dokumentace výrobce 3 · PDF",
+     "dokumentace/zumex-24.pdf"
+    ]
+   ],
+   "tech": [
+    [
+     "Conical System®",
+     "Ovoce se před řezem vystředí, takže řez je přesný a čistý a z každého plodu získáte maximum šťávy i chuti."
+    ],
+    [
+     "PulpOut System",
+     "Automaticky odstraňuje dužninu a semena."
+    ],
+    [
+     "Antibakteriální nanotechnologie ASP®",
+     "Certifikovaná hygiena. Technologie na bázi iontů stříbra účinně a dlouhodobě brání růstu bakterií."
+    ],
+    [
+     "1Step Case Out",
+     "Celou lisovací jednotku vyjmete a vyčistíte v jediném kroku."
+    ],
+    [
+     "Smart Juicer",
+     "Data o provozu v reálném čase přes Zumex Connect."
+    ],
+    [
+     "Cashless modul",
+     "Bezkontaktní platba, která sama spustí lisování. 4 způsoby platby: contactless (mobil nebo karta), čip, magnetický proužek, MIFARE."
+    ],
+    [
+     "Juice Kart",
+     "Pojízdný stolek s prostorem na až 20 kg pomerančů a integrovaným odpadem."
+    ]
+   ],
+   "colors": {
+    "sub": "Nejautentičtější styl",
+    "items": [
+     {
+      "name": "Black Smoke Grey",
+      "style": "background:linear-gradient(90deg,#151515 50%,transparent 50%),radial-gradient(circle,rgba(255,255,255,.4) 1.3px,transparent 1.9px) 0 0/6px 6px,#8b8e91"
+     },
+     {
+      "name": "Black Natural Sand",
+      "style": "background:linear-gradient(90deg,#151515 50%,transparent 50%),radial-gradient(circle,rgba(255,255,255,.4) 1.3px,transparent 1.9px) 0 0/6px 6px,#b79a7f"
+     },
+     {
+      "name": "White Smoke Grey",
+      "style": "background:linear-gradient(90deg,#ececea 50%,transparent 50%),radial-gradient(circle,rgba(255,255,255,.4) 1.3px,transparent 1.9px) 0 0/6px 6px,#8b8e91"
+     },
+     {
+      "name": "White Natural Sand",
+      "style": "background:linear-gradient(90deg,#ececea 50%,transparent 50%),radial-gradient(circle,rgba(255,255,255,.4) 1.3px,transparent 1.9px) 0 0/6px 6px,#b79a7f"
+     },
+     {
+      "name": "Special Edition Black Light Green",
+      "style": "background:linear-gradient(90deg,#151515 50%,transparent 50%),radial-gradient(circle,rgba(255,255,255,.4) 1.3px,transparent 1.9px) 0 0/6px 6px,#6f8f45"
+     }
+    ]
+   },
+   "fruit": {
+    "icons": [
+     "ovoce/pomeranc.svg",
+     "ovoce/mandarinka.svg",
+     "ovoce/citron.svg",
+     "ovoce/limetka.svg"
+    ],
+    "text": "Lis Soul Series 2 je navržený pro dokonalé lisování malých a středních citrusů. Díky výměnným sadám zvládne:",
+    "items": [
+     "Pomeranče",
+     "Mandarinky",
+     "Citrony",
+     "Limetky"
+    ],
+    "kits": [
+     [
+      "Kit M (standard)",
+      "64–81 mm"
+     ],
+     [
+      "Kit S (volitelně)",
+      "45–65 mm"
+     ],
+     [
+      "Kit XS (Limes edition)",
+      "42–52 mm"
+     ]
+    ],
+    "note": "U citronů doporučujeme odrůdy kulatého tvaru s tenkou slupkou, například Eureka, Lisbon nebo Meyer."
+   },
+   "dims": {
+    "groups": [
+     {
+      "name": "Lis",
+      "rows": [
+       [
+        "Výška",
+        "537 mm"
+       ],
+       [
+        "Šířka",
+        "300 mm"
+       ],
+       [
+        "Hloubka",
+        "480 mm"
+       ],
+       [
+        "Hmotnost",
+        "32 kg"
+       ]
+      ]
+     },
+     {
+      "name": "Juice Kart (stolek)",
+      "rows": [
+       [
+        "Výška",
+        "939 mm"
+       ],
+       [
+        "Šířka",
+        "856 mm"
+       ],
+       [
+        "Hloubka",
+        "580,5 mm"
+       ]
+      ]
+     }
+    ],
+    "notes": [
+     "Údaje výrobce. Přesné rozměry pro vaši konfiguraci rádi ověříme."
+    ],
+    "drawing": [
+     "537 mm",
+     "300 mm"
+    ]
+   }
+  },
+  {
+   "id": "minex",
+   "card": {
+    "id": "minex",
+    "category": "citrusy",
+    "demand": "mirna",
+    "business": "kavarny hotely",
+    "search": "Minex Minex je automatický pomerančový lis pro provozy s mírnější spotřebou: malé kavárny, pekárny i hotelové snídaně. Ovoce postupně vkládáte do podavače a šťávu podáváte čerstvou přímo hostovi.",
+    "overline": "Citrusové odšťavňovače",
+    "name": "Minex",
+    "text": "Minex je automatický pomerančový lis pro provozy s mírnější spotřebou: malé kavárny, pekárny i hotelové snídaně.",
+    "img": "main1.png",
+    "specs": [
+     [
+      "Výkon",
+      "13 pomerančů/min"
+     ],
+     [
+      "Zásobník",
+      "6–7 plodů"
+     ]
+    ]
+   },
+   "title": "Minex | Zumex Česko",
+   "desc": "Profesionální odšťavňovače Zumex pro kavárny, hotely, retail i průmyslovou výrobu. Objevte celý svět čerstvé šťávy.",
+   "img": "main1.png",
+   "kategorie": "Citrusové odšťavňovače",
+   "name": "Minex",
+   "claim": "Velká čerstvost pro malé podniky.",
+   "perex": "Pro menší kavárny a provozy, které chtějí nabídnout čerstvou pomerančovou šťávu bez velkých nároků na prostor. Jednoduché ovládání a kompaktní provedení pro každodenní obsluhu.",
+   "metrics": [
+    [
+     "13 plodů/min",
+     "Výkon"
+    ],
+    [
+     "6–7 plodů",
+     "Podavač"
+    ],
+    [
+     "65–78 mm",
+     "Průměr ovoce"
+    ]
+   ],
+   "story": [
+    "Minex je automatický pomerančový lis pro provozy s mírnější spotřebou: malé kavárny, pekárny i hotelové snídaně. Ovoce postupně vkládáte do podavače a šťávu podáváte čerstvou přímo hostovi.",
+    "Můžete pracovat se samoobslužným kohoutkem nebo integrovanou 750ml konvičkou. Menší zásobník se hodí pro přípravu na objednávku. Sedm barevných provedení umožňuje sladit stroj s interiérem; systém Original System a technologie ASP jsou součástí konstrukce."
+   ],
+   "feats": [
+    "Kompaktní řešení pro menší spotřebu.",
+    "Přehledná obsluha přímo na baru.",
+    "Barevná provedení pro sladění s interiérem."
+   ],
+   "gallery": [
+    [
+     "g1-0.webp",
+     "Minex — produktový detail"
+    ],
+    [
+     "g1-1.webp",
+     "Minex — produktový detail"
+    ]
+   ],
+   "variants": [
+    {
+     "name": "Minex",
+     "text": "Vhodný zejména pro pomeranče uvedeného průměru. Při výběru prostoru počítejte s přístupem k podavači i s vyjmutím dílů pro pravidelné čištění.",
+     "img": ""
+    }
+   ],
+   "params": [
+    [
+     "Výkon",
+     "13 pomerančů/min"
+    ],
+    [
+     "Zásobník",
+     "6–7 plodů"
+    ],
+    [
+     "Průměr pomerančů",
+     "65–78 mm"
+    ],
+    [
+     "Rozměry (š × h × v)",
+     "383 × 368 × 712 mm"
+    ],
+    [
+     "Hmotnost",
+     "19,5 kg"
+    ],
+    [
+     "Konvička",
+     "750 ml"
+    ],
+    [
+     "Obsluha",
+     "Kohoutek nebo konvička"
+    ],
+    [
+     "Barvy",
+     "7 provedení (viz Barvy)"
+    ],
+    [
+     "Krytí",
+     "IPX0"
+    ],
+    [
+     "Jazyky nastavení",
+     "23"
+    ],
+    [
+     "Typ provozu",
+     "Mírný"
+    ],
+    [
+     "Výdej",
+     "Samoobslužný kohoutek proti odkapávání, volitelně se zámkem, nebo konvička 750 ml"
+    ],
+    [
+     "Příkon",
+     "50 W | 0,07 HP"
+    ],
+    [
+     "Napájení",
+     "220–240 V, 50–60 Hz / 100–240 V, 50–60 Hz"
+    ],
+    [
+     "Spotřeba proudu",
+     "0,2 A / 0,45 A"
+    ],
+    [
+     "Bezpečnost",
+     "3 bezpečnostní prvky a snímač zablokování motoru"
+    ]
+   ],
+   "param_note": "Údaje výrobce pro uvedené provedení. Výkon závisí na surovině a konfiguraci.",
+   "source": "https://www.zumex.com/en/juicers/minex/",
+   "selection": "Vhodný zejména pro pomeranče uvedeného průměru. Při výběru prostoru počítejte s přístupem k podavači i s vyjmutím dílů pro pravidelné čištění.",
+   "docs": [
+    [
+     "Oficiální produktová stránka",
+     "https://www.zumex.com/en/juicers/minex/"
+    ],
+    [
+     "Dokumentace výrobce 1 · PDF",
+     "dokumentace/zumex-1.pdf"
+    ],
+    [
+     "Dokumentace výrobce 2 · PDF",
+     "dokumentace/zumex-16.pdf"
+    ],
+    [
+     "Dokumentace výrobce 3 · PDF",
+     "dokumentace/zumex-15.pdf"
+    ]
+   ],
+   "tech": [
+    [
+     "Original System",
+     "Nová generace lisovacího systému, vylepšená v každém dílu pro maximální výtěžnost a kvalitu šťávy."
+    ],
+    [
+     "Antibakteriální nanotechnologie ASP",
+     "Technologie na bázi iontů stříbra s certifikací potravinové hygieny."
+    ]
+   ],
+   "colors": {
+    "sub": "7 barev, které zapadnou do každého prostředí",
+    "items": [
+     {
+      "name": "Pample Orange",
+      "style": "background:#f26b21"
+     },
+     {
+      "name": "Deep Purple",
+      "style": "background:#4b2a5c"
+     },
+     {
+      "name": "Aquamarine",
+      "style": "background:#45b5ad"
+     },
+     {
+      "name": "Sand Beige",
+      "style": "background:#d8c3a5"
+     },
+     {
+      "name": "Off-White",
+      "style": "background:#efece4"
+     },
+     {
+      "name": "Concrete Grey",
+      "style": "background:#8d8f8f"
+     },
+     {
+      "name": "Dark Black",
+      "style": "background:#1c1c1c"
+     }
+    ]
+   },
+   "fruit": {
+    "icons": [
+     "ovoce/pomeranc.svg"
+    ],
+    "text": "Minex je automatický lis na pomeranče pro provozy s mírnější spotřebou. Ideální pro:",
+    "items": [
+     "Pomeranče"
+    ],
+    "kits": [
+     [
+      "Průměr pomerančů",
+      "65–78 mm"
+     ]
+    ],
+    "note": ""
+   },
+   "dims": {
+    "groups": [
+     {
+      "name": "Lis",
+      "rows": [
+       [
+        "Výška",
+        "712 mm"
+       ],
+       [
+        "Šířka",
+        "383 mm"
+       ],
+       [
+        "Hloubka",
+        "368 mm"
+       ],
+       [
+        "Hmotnost",
+        "19,5 kg"
+       ]
+      ]
+     }
+    ],
+    "notes": [
+     "Údaje výrobce. Přesné rozměry pro vaši konfiguraci rádi ověříme."
+    ],
+    "drawing": [
+     "712 mm",
+     "383 mm"
+    ]
+   }
+  },
+  {
+   "id": "essential",
+   "card": {
+    "id": "essential",
+    "category": "citrusy",
+    "demand": "stredni",
+    "business": "kavarny hotely bary",
+    "search": "Essential Essential Basic Essential Pro Smart Essential Pro Essential Pro & Fruit basket Essential je řada pro každodenní přípravu čerstvé citrusové šťávy v gastronomii. Essential Pro zpracuje 22 plodů za minutu a díky přímému plnění do sklenice, lahve či džbánu se přizpůsobí obsluze za barem i snídaňovému bufetu.",
+    "overline": "Citrusové odšťavňovače",
+    "name": "Essential",
+    "text": "Essential je řada pro každodenní přípravu čerstvé citrusové šťávy v gastronomii.",
+    "img": "main2.png",
+    "specs": [
+     [
+      "Parametry pro",
+      "Essential Pro"
+     ],
+     [
+      "Výkon",
+      "22 plodů/min"
+     ]
+    ]
+   },
+   "title": "Essential | Zumex Česko",
+   "desc": "Profesionální odšťavňovače Zumex pro kavárny, hotely, retail i průmyslovou výrobu. Objevte celý svět čerstvé šťávy.",
+   "img": "main2.png",
+   "kategorie": "Citrusové odšťavňovače",
+   "name": "Essential",
+   "claim": "Každodenní spolehlivost.",
+   "perex": "Řada pro restaurace, kavárny a bary s pravidelnou poptávkou po čerstvé šťávě. Essential Pro nabízí výkon 22 plodů za minutu; konkrétní výbava závisí na zvolené variantě.",
+   "metrics": [
+    [
+     "22 plodů/min",
+     "Essential Pro"
+    ],
+    [
+     "4–5 plodů",
+     "Podavač Pro"
+    ],
+    [
+     "65–81 mm",
+     "Průměr ovoce Pro"
+    ]
+   ],
+   "story": [
+    "Essential je řada pro každodenní přípravu čerstvé citrusové šťávy v gastronomii. Essential Pro zpracuje 22 plodů za minutu a díky přímému plnění do sklenice, lahve či džbánu se přizpůsobí obsluze za barem i snídaňovému bufetu.",
+    "Pro nabízí samoobslužný a profesionální režim. Digitální displej slouží k nastavení počtu plodů a jazyka; kohoutek brání odkapávání. Řada zahrnuje Basic, Pro, Smart Pro a provedení s košem na ovoce — výbavu proto vybírejte podle konkrétní varianty."
+   ],
+   "feats": [
+    "Přímá příprava čerstvé šťávy před zákazníkem.",
+    "Volba Basic, Pro nebo připojené varianty Smart.",
+    "Možnost sestavy s košem na ovoce."
+   ],
+   "gallery": [
+    [
+     "g2-0.webp",
+     "Essential — produktový detail"
+    ],
+    [
+     "g2-1.webp",
+     "Essential — produktový detail"
+    ]
+   ],
+   "variants": [
+    {
+     "name": "Essential Basic",
+     "text": "Základní provedení řady pro jednodušší způsob obsluhy.",
+     "img": "v2-0.png"
+    },
+    {
+     "name": "Essential Pro",
+     "text": "Pro menší citrusy lze poptat výměnnou sadu. Instalaci na bar usnadní zvýšení stroje nebo sada pro průběžný odvod slupek. Parametry v tabulce patří provedení Pro.",
+     "img": "v2-1.png"
+    },
+    {
+     "name": "Smart Essential Pro",
+     "text": "Chytré provedení řady. Konektivitu a rozsah vzdálených funkcí potvrdíme pro vybranou konfiguraci.",
+     "img": "v2-2.png"
+    },
+    {
+     "name": "Essential Pro & Fruit basket",
+     "text": "Pro menší citrusy lze poptat výměnnou sadu. Instalaci na bar usnadní zvýšení stroje nebo sada pro průběžný odvod slupek. Parametry v tabulce patří provedení Pro.",
+     "img": ""
+    }
+   ],
+   "params": [
+    [
+     "Parametry pro",
+     "Essential Pro"
+    ],
+    [
+     "Výkon",
+     "22 plodů/min"
+    ],
+    [
+     "Podavač",
+     "4–5 plodů"
+    ],
+    [
+     "Standardní průměr ovoce",
+     "65–81 mm"
+    ],
+    [
+     "Rozměry (š × h × v)",
+     "470 × 500 × 750 mm"
+    ],
+    [
+     "Hmotnost",
+     "45,5 kg"
+    ],
+    [
+     "Režimy",
+     "Self-Service / Professional"
+    ],
+    [
+     "Krytí",
+     "IPX4"
+    ],
+    [
+     "Jazyky nastavení",
+     "23"
+    ],
+    [
+     "Lisovací systém",
+     "Original System®"
+    ],
+    [
+     "Typ provozu",
+     "Střední"
+    ],
+    [
+     "Výdej",
+     "Samoobslužný kohoutek proti odkapávání s možností uzamčení"
+    ],
+    [
+     "Příkon",
+     "300 W (230 V) / 320 W (115 V)"
+    ],
+    [
+     "Napájení",
+     "220–240 V, 50–60 Hz / 115 V, 60 Hz"
+    ],
+    [
+     "Spotřeba proudu",
+     "2,7 A"
+    ],
+    [
+     "Bezpečnost",
+     "Dvojitý bezpečnostní detektor a detekce zablokování motoru"
+    ],
+    [
+     "Kit S",
+     "45–67 mm (volitelně)"
+    ]
+   ],
+   "param_note": "Údaje výrobce pro uvedené provedení. Výkon závisí na surovině a konfiguraci.",
+   "source": "https://www.zumex.com/en/juicers/essential-pro/",
+   "selection": "Pro menší citrusy lze poptat výměnnou sadu. Instalaci na bar usnadní zvýšení stroje nebo sada pro průběžný odvod slupek. Parametry v tabulce patří provedení Pro.",
+   "docs": [
+    [
+     "Oficiální produktová stránka",
+     "https://www.zumex.com/en/juicers/essential-pro/"
+    ],
+    [
+     "Dokumentace výrobce 1 · PDF",
+     "dokumentace/zumex-6.pdf"
+    ],
+    [
+     "Dokumentace výrobce 2 · PDF",
+     "dokumentace/zumex-18.pdf"
+    ],
+    [
+     "Dokumentace výrobce 3 · PDF",
+     "dokumentace/zumex-19.pdf"
+    ]
+   ],
+   "tech": [
+    [
+     "Original System®",
+     "Lisovací systém navržený pro maximální výtěžnost a kvalitu šťávy."
+    ],
+    [
+     "Antibakteriální nanotechnologie ASP",
+     "Ionty stříbra brání růstu bakterií, certifikovaná potravinová hygiena."
+    ],
+    [
+     "Dynamic Cutting System (DCS)",
+     "Volitelné příslušenství pro přesný řez ovoce."
+    ]
+   ],
+   "colors": {
+    "sub": "4 barvy pro každý typ prostředí",
+    "items": [
+     {
+      "name": "Silver",
+      "style": "background:linear-gradient(135deg,rgba(255,255,255,.75),rgba(255,255,255,0) 40%,rgba(0,0,0,.18) 60%,rgba(255,255,255,.5)),#c7c9cc"
+     },
+     {
+      "name": "Graphite",
+      "style": "background:#4a4d52"
+     },
+     {
+      "name": "Orange",
+      "style": "background:#f2711c"
+     },
+     {
+      "name": "Black",
+      "style": "background:#161616"
+     }
+    ]
+   },
+   "fruit": {
+    "icons": [
+     "ovoce/pomeranc.svg",
+     "ovoce/mandarinka.svg",
+     "ovoce/citron.svg",
+     "ovoce/limetka.svg"
+    ],
+    "text": "Essential Pro je navržený pro dokonalé lisování malých a středních citrusů pomocí různých sad. Ideální pro:",
+    "items": [
+     "Pomeranče",
+     "Mandarinky",
+     "Citrony",
+     "Limetky"
+    ],
+    "kits": [
+     [
+      "Standardní průměr",
+      "65–81 mm"
+     ],
+     [
+      "Kit S (volitelně)",
+      "45–67 mm"
+     ]
+    ],
+    "note": ""
+   },
+   "dims": {
+    "groups": [
+     {
+      "name": "Essential Pro",
+      "rows": [
+       [
+        "Výška",
+        "750 mm"
+       ],
+       [
+        "Šířka",
+        "470 mm"
+       ],
+       [
+        "Hloubka",
+        "500 mm"
+       ],
+       [
+        "Hmotnost",
+        "45,5 kg"
+       ]
+      ]
+     }
+    ],
+    "notes": [
+     "Údaje výrobce. Přesné rozměry pro vaši konfiguraci rádi ověříme."
+    ],
+    "drawing": [
+     "750 mm",
+     "470 mm"
+    ]
+   }
+  },
+  {
+   "id": "versatile",
+   "card": {
+    "id": "versatile",
+    "category": "citrusy",
+    "demand": "vysoka",
+    "business": "kavarny hotely obchody",
+    "search": "Versatile Versatile Basic Versatile Pro Smart Versatile Pro Versatile Star All-in-One Slim (BH) Versatile Star Juice Corner Slim (BH) Versatile spojuje automatické podávání citrusů s větší autonomií než ručně doplňované stolní lisy. Hodí se tam, kde je šťáva pravidelnou součástí nabídky a obsluha se potřebuje věnovat i dalším úkolům.",
+    "overline": "Citrusové odšťavňovače",
+    "name": "Versatile",
+    "text": "Versatile spojuje automatické podávání citrusů s větší autonomií než ručně doplňované stolní lisy.",
+    "img": "main3.png",
+    "specs": [
+     [
+      "Výkon Basic / Pro",
+      "22 plodů/min"
+     ],
+     [
+      "Zásobník Pro",
+      "16 kg"
+     ]
+    ]
+   },
+   "title": "Versatile | Zumex Česko",
+   "desc": "Profesionální odšťavňovače Zumex pro kavárny, hotely, retail i průmyslovou výrobu. Objevte celý svět čerstvé šťávy.",
+   "img": "main3.png",
+   "kategorie": "Citrusové odšťavňovače",
+   "name": "Versatile",
+   "claim": "Když čerstvost nabere tempo.",
+   "perex": "Automatické podávání ovoce pro rušnější provoz. Od stolních modelů Basic a Pro po samostatné juice cornery Star: řada Versatile se přizpůsobí vašemu prostoru.",
+   "metrics": [
+    [
+     "22 plodů/min",
+     "Basic a Pro"
+    ],
+    [
+     "16 kg",
+     "Zásobník Pro"
+    ],
+    [
+     "20 kg",
+     "Zásobník Star"
+    ]
+   ],
+   "story": [
+    "Versatile spojuje automatické podávání citrusů s větší autonomií než ručně doplňované stolní lisy. Hodí se tam, kde je šťáva pravidelnou součástí nabídky a obsluha se potřebuje věnovat i dalším úkolům.",
+    "Basic, Pro a Smart Pro doplňuje řada Star pro samoobslužná prodejní místa. Pro pracuje s větším zásobníkem, zatímco provedení All-in-One a Juice Corner řeší samostatné umístění v prostoru. Volba závisí na špičkovém odběru, dostupné ploše a způsobu výdeje."
+   ],
+   "feats": [
+    "Automatický zásobník omezí průběžné doplňování.",
+    "Stolní i samostatně stojící konfigurace.",
+    "Verze Smart pro propojení a sledování provozu."
+   ],
+   "gallery": [],
+   "variants": [
+    {
+     "name": "Versatile Basic",
+     "text": "Základní provedení řady pro jednodušší způsob obsluhy.",
+     "img": ""
+    },
+    {
+     "name": "Versatile Pro",
+     "text": "Při poptávce uveďte, zda má stroj stát na barové desce nebo samostatně. Výkon a rozměry řady Star vám potvrdíme pro konkrétní konfiguraci.",
+     "img": "v3-1.png"
+    },
+    {
+     "name": "Smart Versatile Pro",
+     "text": "Chytré provedení řady. Konektivitu a rozsah vzdálených funkcí potvrdíme pro vybranou konfiguraci.",
+     "img": "v3-2.png"
+    },
+    {
+     "name": "Versatile Star All-in-One Slim (BH)",
+     "text": "Užší samostatné provedení pro prodejní místa s omezenou šířkou.",
+     "img": ""
+    },
+    {
+     "name": "Versatile Star Juice Corner Slim (BH)",
+     "text": "Užší samostatné provedení pro prodejní místa s omezenou šířkou.",
+     "img": ""
+    }
+   ],
+   "params": [
+    [
+     "Výkon Basic / Pro",
+     "22 plodů/min"
+    ],
+    [
+     "Zásobník Pro",
+     "16 kg"
+    ],
+    [
+     "Zásobník Star",
+     "20 kg"
+    ],
+    [
+     "Provedení",
+     "Basic / Pro / Smart Pro / Star"
+    ],
+    [
+     "Umístění",
+     "Na bar nebo samostatný komplet"
+    ],
+    [
+     "Zaměření Star",
+     "Samoobsluha a retail"
+    ],
+    [
+     "Typ provozu",
+     "Vysoký"
+    ],
+    [
+     "Výkon Star",
+     "40 plodů/min"
+    ],
+    [
+     "Průměr ovoce",
+     "65–81 mm, s Kitem S 45–67 mm"
+    ],
+    [
+     "Výdej",
+     "Kohoutek Easy Press, držák lahví 34,4 / 36 / 38 mm"
+    ],
+    [
+     "Příkon Pro",
+     "380 W (230 V) / 320 W (115 V)"
+    ],
+    [
+     "Příkon Star",
+     "280 W (230 V) / 360 W (115 V)"
+    ],
+    [
+     "Napájení",
+     "220–240 V, 50–60 Hz / 115 V, 60 Hz"
+    ],
+    [
+     "Odpad",
+     "Vestavěné nádoby, s podstavcem až 52 l"
+    ],
+    [
+     "Půdorys Star",
+     "0,26 m²"
+    ],
+    [
+     "Krytí",
+     "IPX4"
+    ],
+    [
+     "Jazyky nastavení",
+     "23"
+    ]
+   ],
+   "param_note": "Údaje výrobce pro uvedené provedení. Výkon závisí na surovině a konfiguraci.",
+   "source": "https://www.zumex.com/en/juicers/versatile/",
+   "selection": "Při poptávce uveďte, zda má stroj stát na barové desce nebo samostatně. Výkon a rozměry řady Star vám potvrdíme pro konkrétní konfiguraci.",
+   "docs": [
+    [
+     "Oficiální produktová stránka",
+     "https://www.zumex.com/en/juicers/versatile/"
+    ]
+   ],
+   "tech": [
+    [
+     "Original System®",
+     "Lisovací systém pro maximální výtěžnost a kvalitu šťávy."
+    ],
+    [
+     "PulpOut System",
+     "Automatický pás odstraňuje dužninu a semena, čtyřfázová filtrace. U Star až 150 kg autonomie."
+    ],
+    [
+     "Kit 1Step",
+     "Celou lisovací jednotku vyjmete v jediném kroku."
+    ],
+    [
+     "Antibakteriální nanotechnologie ASP",
+     "Ionty stříbra brání růstu bakterií."
+    ],
+    [
+     "Cashless modul",
+     "Bezkontaktní platba, 4 způsoby: contactless (mobil nebo karta), čip, magnetický proužek, MIFARE."
+    ]
+   ],
+   "colors": {
+    "sub": "Versatile Pro a Versatile Star",
+    "items": [
+     {
+      "name": "Graphite (Pro)",
+      "style": "background:#4a4d52"
+     },
+     {
+      "name": "Orange (Pro)",
+      "style": "background:#f2711c"
+     },
+     {
+      "name": "Black (Pro)",
+      "style": "background:#161616"
+     },
+     {
+      "name": "Oiled Oak (Star)",
+      "style": "background:repeating-linear-gradient(100deg,rgba(0,0,0,.12) 0 2px,transparent 2px 7px),#9b6b43"
+     },
+     {
+      "name": "Black Sparkle (Star)",
+      "style": "background:radial-gradient(circle,rgba(255,255,255,.55) .8px,transparent 1.3px) 0 0/7px 9px,#1a1a1a"
+     }
+    ]
+   },
+   "fruit": {
+    "icons": [
+     "ovoce/pomeranc.svg",
+     "ovoce/mandarinka.svg",
+     "ovoce/citron.svg",
+     "ovoce/limetka.svg"
+    ],
+    "text": "Řada Versatile je navržená pro dokonalé lisování malých a středních citrusů pomocí různých sad. Ideální pro:",
+    "items": [
+     "Pomeranče",
+     "Mandarinky",
+     "Citrony",
+     "Limetky"
+    ],
+    "kits": [
+     [
+      "Kit M (standard)",
+      "65–81 mm"
+     ],
+     [
+      "Kit S (volitelně)",
+      "45–67 mm"
+     ]
+    ],
+    "note": ""
+   },
+   "dims": {
+    "groups": [
+     {
+      "name": "Versatile Pro (stolní)",
+      "rows": [
+       [
+        "Výška",
+        "890 mm"
+       ],
+       [
+        "Šířka",
+        "480 mm"
+       ],
+       [
+        "Hloubka",
+        "550 mm"
+       ],
+       [
+        "Hmotnost",
+        "56,5 kg"
+       ]
+      ]
+     },
+     {
+      "name": "Versatile Star",
+      "rows": [
+       [
+        "Výška",
+        "1 734 mm"
+       ],
+       [
+        "Šířka",
+        "480 mm"
+       ],
+       [
+        "Hloubka",
+        "550 mm"
+       ],
+       [
+        "Hmotnost",
+        "90,1 kg"
+       ]
+      ]
+     },
+     {
+      "name": "Versatile Star, podstavec Wide",
+      "rows": [
+       [
+        "Výška",
+        "1 715 mm"
+       ],
+       [
+        "Šířka",
+        "806 mm"
+       ],
+       [
+        "Hloubka",
+        "627 mm"
+       ],
+       [
+        "Hmotnost",
+        "103,6 kg"
+       ]
+      ]
+     }
+    ],
+    "notes": [
+     "Údaje výrobce. Přesné rozměry pro vaši konfiguraci rádi ověříme."
+    ],
+    "drawing": [
+     "890 mm",
+     "480 mm"
+    ]
+   }
+  },
+  {
+   "id": "speed-up",
+   "card": {
+    "id": "speed-up",
+    "category": "citrusy",
+    "demand": "velmi-vysoka",
+    "business": "hotely obchody bary",
+    "search": "Speed Up Speed Up Speed Up All-in-One Wide Black Speed Up All-in-One Wide Mirror Speed Up All-in-One Slim Black Smart Speed Up Smart Speed Up All-in-One Wide Black Smart Speed Up All-in-One Wide Mirror Smart Speed Up All-in-One Slim Black Speed Up je určen pro intenzivní výdej čerstvé šťávy v obchodech, velkých bufetech a vytížených gastroprovozech. Výkon 40 plodů za minutu a zásobník na 20 kg ovoce pomáhají zvládat odběrové špičky s menší četností doplňování.",
+    "overline": "Citrusové odšťavňovače",
+    "name": "Speed Up",
+    "text": "Speed Up je určen pro intenzivní výdej čerstvé šťávy v obchodech, velkých bufetech a vytížených gastroprovozech.",
+    "img": "main4.png",
+    "specs": [
+     [
+      "Výkon",
+      "40 plodů/min"
+     ],
+     [
+      "Zásobník",
+      "20 kg"
+     ]
+    ]
+   },
+   "title": "Speed Up | Zumex Česko",
+   "desc": "Profesionální odšťavňovače Zumex pro kavárny, hotely, retail i průmyslovou výrobu. Objevte celý svět čerstvé šťávy.",
+   "img": "main4.png",
+   "kategorie": "Citrusové odšťavňovače",
+   "name": "Speed Up",
+   "claim": "Výkon pro vaši největší špičku.",
+   "perex": "Rychlá příprava citrusových šťáv pro intenzivní provoz. Vyberte stolní provedení nebo sestavu All-in-One s podstavcem Wide či Slim.",
+   "metrics": [
+    [
+     "40 plodů/min",
+     "Výkon"
+    ],
+    [
+     "20 kg",
+     "Zásobník"
+    ],
+    [
+     "65–81 mm",
+     "Průměr ovoce"
+    ]
+   ],
+   "story": [
+    "Speed Up je určen pro intenzivní výdej čerstvé šťávy v obchodech, velkých bufetech a vytížených gastroprovozech. Výkon 40 plodů za minutu a zásobník na 20 kg ovoce pomáhají zvládat odběrové špičky s menší četností doplňování.",
+    "Kohoutek Up Tap je navržen pro plnění lahví. Vybrat lze stolní provedení nebo samostatné komplety All-in-One Wide a Slim; chytré varianty jsou označeny Smart. Stolní stroj má dvě nádoby na slupky a možnost propojení s odvodem odpadu pod bar."
+   ],
+   "feats": [
+    "Velký zásobník pro plynulý provoz.",
+    "Široká nabídka podstavců a povrchových úprav.",
+    "Smart varianty s propojenými funkcemi."
+   ],
+   "gallery": [
+    [
+     "g4-0.webp",
+     "Speed Up — produktový detail"
+    ]
+   ],
+   "variants": [
+    {
+     "name": "Speed Up",
+     "text": "Volte rozměry kompletu podle šířky místa instalace. Pro menší ovoce a odvod slupek lze doplnit odpovídající sady; jejich kompatibilitu ověříme podle modelu.",
+     "img": "v4-0.png"
+    },
+    {
+     "name": "Speed Up All-in-One Wide Black",
+     "text": "Širší samostatný komplet pro umístění do samoobslužného prodejního prostoru.",
+     "img": "v4-1.png"
+    },
+    {
+     "name": "Speed Up All-in-One Wide Mirror",
+     "text": "Širší samostatný komplet pro umístění do samoobslužného prodejního prostoru.",
+     "img": "v4-2.png"
+    },
+    {
+     "name": "Speed Up All-in-One Slim Black",
+     "text": "Užší samostatné provedení pro prodejní místa s omezenou šířkou.",
+     "img": "v4-3.png"
+    },
+    {
+     "name": "Smart Speed Up",
+     "text": "Chytré provedení řady. Konektivitu a rozsah vzdálených funkcí potvrdíme pro vybranou konfiguraci.",
+     "img": "v4-4.png"
+    },
+    {
+     "name": "Smart Speed Up All-in-One Wide Black",
+     "text": "Chytré provedení řady. Konektivitu a rozsah vzdálených funkcí potvrdíme pro vybranou konfiguraci.",
+     "img": "v4-5.png"
+    },
+    {
+     "name": "Smart Speed Up All-in-One Wide Mirror",
+     "text": "Chytré provedení řady. Konektivitu a rozsah vzdálených funkcí potvrdíme pro vybranou konfiguraci.",
+     "img": "v4-6.png"
+    },
+    {
+     "name": "Smart Speed Up All-in-One Slim Black",
+     "text": "Chytré provedení řady. Konektivitu a rozsah vzdálených funkcí potvrdíme pro vybranou konfiguraci.",
+     "img": "v4-7.png"
+    }
+   ],
+   "params": [
+    [
+     "Výkon",
+     "40 plodů/min"
+    ],
+    [
+     "Zásobník",
+     "20 kg"
+    ],
+    [
+     "Standardní průměr ovoce",
+     "65–81 mm"
+    ],
+    [
+     "Rozměry stolní verze (š × h × v)",
+     "593 × 624 × 1 050 mm"
+    ],
+    [
+     "Hmotnost stolní verze",
+     "76,7 kg"
+    ],
+    [
+     "Výdej",
+     "Up Tap"
+    ],
+    [
+     "Krytí",
+     "IPX4"
+    ],
+    [
+     "Jazyky nastavení",
+     "23"
+    ],
+    [
+     "Provedení",
+     "Stolní / All-in-One Wide / Slim"
+    ],
+    [
+     "Typ provozu",
+     "Velmi vysoký"
+    ],
+    [
+     "Kit S 1Step",
+     "45–67 mm (volitelně)"
+    ],
+    [
+     "Držák lahví",
+     "34,4 / 36 / 38 mm"
+    ],
+    [
+     "Spotřeba proudu",
+     "1,9 A / 2,7 A / 3,5 A"
+    ],
+    [
+     "Příkon",
+     "460 W | 0,62 HP (230 V)"
+    ],
+    [
+     "Odpad",
+     "Stolní: 2 nádoby. Wide: 2 × 70 kg. Slim: 1 × 45 kg"
+    ],
+    [
+     "All-in-One Wide (š × h × v)",
+     "810 × 682 × 1 775 mm"
+    ],
+    [
+     "Hmotnost All-in-One Wide",
+     "133 kg"
+    ]
+   ],
+   "param_note": "Údaje výrobce pro uvedené provedení. Výkon závisí na surovině a konfiguraci.",
+   "source": "https://www.zumex.com/en/juicers/speed-series/speed-up/",
+   "selection": "Volte rozměry kompletu podle šířky místa instalace. Pro menší ovoce a odvod slupek lze doplnit odpovídající sady; jejich kompatibilitu ověříme podle modelu.",
+   "docs": [
+    [
+     "Oficiální produktová stránka",
+     "https://www.zumex.com/en/juicers/speed-series/speed-up/"
+    ],
+    [
+     "Dokumentace výrobce 1 · PDF",
+     "dokumentace/zumex-9.pdf"
+    ],
+    [
+     "Dokumentace výrobce 2 · PDF",
+     "dokumentace/zumex-23.pdf"
+    ],
+    [
+     "Dokumentace výrobce 3 · PDF",
+     "dokumentace/zumex-11.pdf"
+    ]
+   ],
+   "tech": [
+    [
+     "Original System®",
+     "Lisovací systém pro maximální výtěžnost a kvalitu šťávy."
+    ],
+    [
+     "Automatický PulpOut",
+     "Trojitý filtrační pás propustí rozpustnou vlákninu a odstraní nepříjemná dlouhá vlákna."
+    ],
+    [
+     "Antibakteriální technologie ASP",
+     "Ionty stříbra brání růstu bakterií."
+    ]
+   ],
+   "colors": {
+    "sub": "Provedení podle konfigurace",
+    "items": [
+     {
+      "name": "Black",
+      "style": "background:#161616"
+     },
+     {
+      "name": "Mirror (All-in-One Wide)",
+      "style": "background:linear-gradient(135deg,rgba(255,255,255,.75),rgba(255,255,255,0) 40%,rgba(0,0,0,.18) 60%,rgba(255,255,255,.5)),#d9dde0"
+     }
+    ]
+   },
+   "fruit": {
+    "icons": [
+     "ovoce/pomeranc.svg",
+     "ovoce/citron.svg",
+     "ovoce/limetka.svg"
+    ],
+    "text": "Speed Up je stavěný na intenzivní výdej čerstvé šťávy. Zpracuje:",
+    "items": [
+     "Pomeranče",
+     "Citrony (s Kitem S)",
+     "Limetky (s Kitem S)"
+    ],
+    "kits": [
+     [
+      "Standardní průměr",
+      "65–81 mm"
+     ],
+     [
+      "Kit S 1Step (volitelně)",
+      "45–67 mm"
+     ]
+    ],
+    "note": ""
+   },
+   "dims": {
+    "groups": [
+     {
+      "name": "Stolní verze",
+      "rows": [
+       [
+        "Výška",
+        "1 050 mm"
+       ],
+       [
+        "Šířka",
+        "593 mm"
+       ],
+       [
+        "Hloubka",
+        "624 mm"
+       ],
+       [
+        "Hmotnost",
+        "76,7 kg"
+       ]
+      ]
+     },
+     {
+      "name": "All-in-One Wide",
+      "rows": [
+       [
+        "Výška",
+        "1 775 mm"
+       ],
+       [
+        "Šířka",
+        "810 mm"
+       ],
+       [
+        "Hloubka",
+        "682 mm"
+       ],
+       [
+        "Hmotnost",
+        "133 kg"
+       ]
+      ]
+     }
+    ],
+    "notes": [
+     "Rozměry provedení All-in-One Slim vám potvrdíme podle konfigurace.",
+     "Údaje výrobce. Přesné rozměry pro vaši konfiguraci rádi ověříme."
+    ],
+    "drawing": [
+     "1 050 mm",
+     "593 mm"
+    ]
+   }
+  },
+  {
+   "id": "speed-s-plus",
+   "card": {
+    "id": "speed-s-plus",
+    "category": "citrusy",
+    "demand": "velmi-vysoka",
+    "business": "obchody hotely bary",
+    "search": "Speed S+plus Speed S+plus Speed S+plus All-in-One Wide Mirror Speed S+plus All-in-One Wide Black Speed S+plus All-in-One Slim Speed S+plus Tank All-in-One Smart Speed S+plus Smart Speed S+plus All-in-One Wide Mirror Smart Speed S+plus All-in-One Wide Black Smart Speed S+plus All-in-One Slim Black Speed S+plus je řada pro samoobslužný prodej čerstvé šťávy a provozy s velmi vysokou poptávkou. Nabízí výkon až 40 plodů za minutu a varianty pro přímý výdej i uspořádání s nádrží.",
+    "overline": "Citrusové odšťavňovače",
+    "name": "Speed S+plus",
+    "text": "Speed S+plus je řada pro samoobslužný prodej čerstvé šťávy a provozy s velmi vysokou poptávkou.",
+    "img": "5-0.webp",
+    "specs": [
+     [
+      "Výkon",
+      "40 plodů/min"
+     ],
+     [
+      "Rozsah ovoce s příslušnými sadami",
+      "45–95 mm"
+     ]
+    ]
+   },
+   "title": "Speed S+plus | Zumex Česko",
+   "desc": "Profesionální odšťavňovače Zumex pro kavárny, hotely, retail i průmyslovou výrobu. Objevte celý svět čerstvé šťávy.",
+   "img": "5-0.webp",
+   "kategorie": "Citrusové odšťavňovače",
+   "name": "Speed S+plus",
+   "claim": "Samoobsluha ve velkém stylu.",
+   "perex": "Výkonná řada pro maloobchod, hotely a samoobslužné provozy. Různé lisovací sady rozšiřují možnosti zpracování citrusů.",
+   "metrics": [
+    [
+     "40 plodů/min",
+     "Výkon"
+    ],
+    [
+     "45–95 mm",
+     "Rozsah s vhodnými sadami"
+    ],
+    [
+     "9 konfigurací",
+     "Přehled variant"
+    ]
+   ],
+   "story": [
+    "Speed S+plus je řada pro samoobslužný prodej čerstvé šťávy a provozy s velmi vysokou poptávkou. Nabízí výkon až 40 plodů za minutu a varianty pro přímý výdej i uspořádání s nádrží.",
+    "Řadu tvoří stolní stroj, komplety All-in-One Wide a Slim a Tank All-in-One. Smart provedení rozšiřují nabídku o chytré funkce. Různé citrusové sady umožňují přizpůsobit lisování velikosti používaného ovoce."
+   ],
+   "feats": [
+    "Stolní řešení i sestavy All-in-One.",
+    "Tank varianta pro odběr ze zásobníku.",
+    "Možnost připojených modelů Smart."
+   ],
+   "gallery": [],
+   "variants": [
+    {
+     "name": "Speed S+plus",
+     "text": "Rozsah 45–95 mm vyžaduje odpovídající lisovací sady. Pro konkrétní model si nechte potvrdit půdorys, odpadní kapacitu a způsob výdeje.",
+     "img": ""
+    },
+    {
+     "name": "Speed S+plus All-in-One Wide Mirror",
+     "text": "Širší samostatný komplet pro umístění do samoobslužného prodejního prostoru.",
+     "img": ""
+    },
+    {
+     "name": "Speed S+plus All-in-One Wide Black",
+     "text": "Širší samostatný komplet pro umístění do samoobslužného prodejního prostoru.",
+     "img": ""
+    },
+    {
+     "name": "Speed S+plus All-in-One Slim",
+     "text": "Užší samostatné provedení pro prodejní místa s omezenou šířkou.",
+     "img": ""
+    },
+    {
+     "name": "Speed S+plus Tank All-in-One",
+     "text": "Provedení s nádrží pro provozy, které potřebují zásobu připravené šťávy.",
+     "img": ""
+    },
+    {
+     "name": "Smart Speed S+plus",
+     "text": "Chytré provedení řady. Konektivitu a rozsah vzdálených funkcí potvrdíme pro vybranou konfiguraci.",
+     "img": ""
+    },
+    {
+     "name": "Smart Speed S+plus All-in-One Wide Mirror",
+     "text": "Chytré provedení řady. Konektivitu a rozsah vzdálených funkcí potvrdíme pro vybranou konfiguraci.",
+     "img": ""
+    },
+    {
+     "name": "Smart Speed S+plus All-in-One Wide Black",
+     "text": "Chytré provedení řady. Konektivitu a rozsah vzdálených funkcí potvrdíme pro vybranou konfiguraci.",
+     "img": ""
+    },
+    {
+     "name": "Smart Speed S+plus All-in-One Slim Black",
+     "text": "Chytré provedení řady. Konektivitu a rozsah vzdálených funkcí potvrdíme pro vybranou konfiguraci.",
+     "img": ""
+    }
+   ],
+   "params": [
+    [
+     "Výkon",
+     "40 plodů/min"
+    ],
+    [
+     "Rozsah ovoce s příslušnými sadami",
+     "45–95 mm"
+    ],
+    [
+     "Použití",
+     "Velmi vysoký odběr"
+    ],
+    [
+     "Formát",
+     "Stolní / All-in-One"
+    ],
+    [
+     "Samostatné komplety",
+     "Wide / Slim"
+    ],
+    [
+     "Varianta s nádrží",
+     "Tank All-in-One"
+    ],
+    [
+     "Chytré varianty",
+     "Smart Speed S+plus"
+    ],
+    [
+     "Zásobník",
+     "20 kg"
+    ],
+    [
+     "Průměr ovoce",
+     "S 45–67 mm / M 65–81 mm / L 75–95 mm"
+    ],
+    [
+     "Rozměry stolní verze (š × h × v)",
+     "593 × 665 × 1 050 mm"
+    ],
+    [
+     "Hmotnost stolní verze",
+     "83,5 kg"
+    ],
+    [
+     "Výdej",
+     "Nerezový kohoutek s předním tlačítkem, držák lahví 34,4 / 36 / 38 mm"
+    ],
+    [
+     "Příkon",
+     "460 W | 0,62 HP (230 V)"
+    ],
+    [
+     "Spotřeba proudu",
+     "1,9 A / 2,7 A / 3,5 A"
+    ],
+    [
+     "Hladina hluku",
+     "65 dB"
+    ],
+    [
+     "Displej",
+     "Intelligent Touch"
+    ],
+    [
+     "Krytí",
+     "IPX4"
+    ]
+   ],
+   "param_note": "Údaje výrobce pro uvedené provedení. Výkon závisí na surovině a konfiguraci.",
+   "source": "https://www.zumex.com/en/juicers/speed-series/",
+   "selection": "Rozsah 45–95 mm vyžaduje odpovídající lisovací sady. Pro konkrétní model si nechte potvrdit půdorys, odpadní kapacitu a způsob výdeje.",
+   "docs": [
+    [
+     "Oficiální produktová stránka",
+     "https://www.zumex.com/en/juicers/speed-series/"
+    ]
+   ],
+   "tech": [
+    [
+     "Original System®",
+     "Nová generace lisovacího systému pro maximální výtěžnost a kvalitu šťávy."
+    ],
+    [
+     "Automatický PulpOut",
+     "Trojitá filtrace s automatickým pásem, až 150 kg nepřetržité produkce."
+    ],
+    [
+     "Kit 1Step",
+     "Celou lisovací jednotku vyjmete v jediném kroku, lze mýt v myčce."
+    ],
+    [
+     "Antibakteriální technologie ASP",
+     "Ionty stříbra brání růstu bakterií."
+    ]
+   ],
+   "colors": {
+    "sub": "Provedení podle konfigurace",
+    "items": [
+     {
+      "name": "Black",
+      "style": "background:#161616"
+     },
+     {
+      "name": "Mirror",
+      "style": "background:linear-gradient(135deg,rgba(255,255,255,.75),rgba(255,255,255,0) 40%,rgba(0,0,0,.18) 60%,rgba(255,255,255,.5)),#d9dde0"
+     }
+    ]
+   },
+   "fruit": {
+    "icons": [
+     "ovoce/pomeranc.svg",
+     "ovoce/citron.svg",
+     "ovoce/limetka.svg",
+     "ovoce/grapefruit.svg",
+     "ovoce/granatove-jablko.svg"
+    ],
+    "text": "Speed S+plus s výměnnými sadami 1Step pokryje celou škálu citrusů. Zpracuje:",
+    "items": [
+     "Pomeranče",
+     "Citrony (Kit S)",
+     "Limetky (Kit S)",
+     "Grapefruity (Kit L)",
+     "Velká granátová jablka (Kit L)"
+    ],
+    "kits": [
+     [
+      "Kit 1Step S",
+      "45–67 mm"
+     ],
+     [
+      "Kit 1Step M",
+      "65–81 mm"
+     ],
+     [
+      "Kit 1Step L",
+      "75–95 mm"
+     ]
+    ],
+    "note": ""
+   },
+   "dims": {
+    "groups": [
+     {
+      "name": "Stolní verze",
+      "rows": [
+       [
+        "Výška",
+        "1 050 mm"
+       ],
+       [
+        "Šířka",
+        "593 mm"
+       ],
+       [
+        "Hloubka",
+        "665 mm"
+       ],
+       [
+        "Hmotnost",
+        "83,5 kg"
+       ]
+      ]
+     }
+    ],
+    "notes": [
+     "Rozměry samostatných kompletů All-in-One a Tank vám potvrdíme podle konfigurace.",
+     "Údaje výrobce. Přesné rozměry pro vaši konfiguraci rádi ověříme."
+    ],
+    "drawing": [
+     "1 050 mm",
+     "593 mm"
+    ]
+   }
+  },
+  {
+   "id": "speed-pomegranates",
+   "card": {
+    "id": "speed-pomegranates",
+    "category": "citrusy",
+    "demand": "velmi-vysoka",
+    "business": "obchody bary hotely",
+    "search": "Speed Pomegranates Speed Pomegranates All-in-One Wide Black Speed Pomegranates je specializovaná řada pro šťávu z granátových jablek. Zásobník na 20 kg ovoce a výkon 30 plodů za minutu ji předurčují pro pravidelný prodej ve větším objemu.",
+    "overline": "Citrusové odšťavňovače",
+    "name": "Speed Pomegranates",
+    "text": "Speed Pomegranates je specializovaná řada pro šťávu z granátových jablek.",
+    "img": "6-0.webp",
+    "specs": [
+     [
+      "Výkon",
+      "30 granátových jablek/min"
+     ],
+     [
+      "Zásobník",
+      "20 kg"
+     ]
+    ]
+   },
+   "title": "Speed Pomegranates | Zumex Česko",
+   "desc": "Profesionální odšťavňovače Zumex pro kavárny, hotely, retail i průmyslovou výrobu. Objevte celý svět čerstvé šťávy.",
+   "img": "6-0.webp",
+   "kategorie": "Citrusové odšťavňovače",
+   "name": "Speed Pomegranates",
+   "claim": "Výrazná chuť granátového jablka.",
+   "perex": "Specializovaný stroj pro granátová jablka s velkým zásobníkem. Samostatně stojící sestava All-in-One Wide Black je připravena pro intenzivní provoz.",
+   "metrics": [
+    [
+     "30 plodů/min",
+     "Výkon"
+    ],
+    [
+     "20 kg",
+     "Zásobník"
+    ],
+    [
+     "75–95 mm",
+     "Standardní velikost plodů"
+    ]
+   ],
+   "story": [
+    "Speed Pomegranates je specializovaná řada pro šťávu z granátových jablek. Zásobník na 20 kg ovoce a výkon 30 plodů za minutu ji předurčují pro pravidelný prodej ve větším objemu.",
+    "Lisovací systém je přizpůsoben granátovým jablkům a oddělení šťávy od slupek. Samostatné komplety řeší zásobu ovoce, výdej do lahví i sběr odpadu v jednom místě. K dispozici jsou různě široká provedení, proto vždy vybírejte kompletní konfiguraci."
+   ],
+   "feats": [
+    "Lisovací systém určený pro granátová jablka.",
+    "Pro gastronomii i samoobslužný prodej.",
+    "Integrovaný podstavec Wide Black."
+   ],
+   "gallery": [
+    [
+     "g6-0.webp",
+     "Speed Pomegranates — produktový detail"
+    ],
+    [
+     "g6-1.webp",
+     "Speed Pomegranates — produktový detail"
+    ]
+   ],
+   "variants": [
+    {
+     "name": "Speed Pomegranates All-in-One Wide Black",
+     "text": "Širší samostatný komplet pro umístění do samoobslužného prodejního prostoru.",
+     "img": "v6-0.png"
+    }
+   ],
+   "params": [
+    [
+     "Výkon",
+     "30 granátových jablek/min"
+    ],
+    [
+     "Zásobník",
+     "20 kg"
+    ],
+    [
+     "Standardní průměr ovoce",
+     "75–95 mm"
+    ],
+    [
+     "All-in-One Wide (š × h × v)",
+     "810 × 682 × 1 775 mm"
+    ],
+    [
+     "Hmotnost Wide",
+     "135 kg"
+    ],
+    [
+     "All-in-One Narrow (š × h × v)",
+     "710 × 682 × 1 775 mm"
+    ],
+    [
+     "Hmotnost Narrow",
+     "131,1 kg"
+    ],
+    [
+     "Krytí",
+     "IPX4"
+    ],
+    [
+     "Bezpečnost",
+     "4 snímače a ochrana motoru"
+    ],
+    [
+     "Typ provozu",
+     "Velmi vysoký"
+    ],
+    [
+     "Nepřetržitá produkce",
+     "Až 100 kg"
+    ],
+    [
+     "Kit S Pomegranates",
+     "65–85 mm"
+    ],
+    [
+     "Příkon",
+     "300 W | 0,50 HP"
+    ],
+    [
+     "Napájení",
+     "220–240 V, 50–60 Hz / 120 V, 60 Hz"
+    ],
+    [
+     "Spotřeba proudu",
+     "2,3 A / 2,9 A"
+    ],
+    [
+     "Odpad",
+     "Přímo do nádob, 2 vozíky 100 l / 40 kg"
+    ],
+    [
+     "Výdej",
+     "Kohoutek Up Tap, držák lahví 34,4 / 36 / 38 mm"
+    ],
+    [
+     "Jazyky nastavení",
+     "23"
+    ]
+   ],
+   "param_note": "Údaje výrobce pro uvedené provedení. Výkon závisí na surovině a konfiguraci.",
+   "source": "https://www.zumex.com/en/juicers/speed-pomegranates/",
+   "selection": "Před volbou sady zkontrolujte průměr dodávaných granátových jablek. Ověříme také šířku podstavce a vhodný držák pro lahve, které budete používat.",
+   "docs": [
+    [
+     "Oficiální produktová stránka",
+     "https://www.zumex.com/en/juicers/speed-pomegranates/"
+    ],
+    [
+     "Dokumentace výrobce 1 · PDF",
+     "dokumentace/zumex-10.pdf"
+    ],
+    [
+     "Dokumentace výrobce 2 · PDF",
+     "dokumentace/zumex-4.pdf"
+    ],
+    [
+     "Dokumentace výrobce 3 · PDF",
+     "dokumentace/zumex-12.pdf"
+    ]
+   ],
+   "tech": [
+    [
+     "Original System®",
+     "Optimální výtěžnost a prémiová kvalita šťávy bez kontaktu se slupkou."
+    ],
+    [
+     "Titanový nůž",
+     "Maximální tvrdost a dlouhodobě ostrý řez."
+    ],
+    [
+     "Automatický PulpOut",
+     "Trojitý filtr s automatickým pásem odstraňuje semena a dužninu."
+    ],
+    [
+     "Antibakteriální nanotechnologie ASP",
+     "Ionty stříbra brání růstu bakterií."
+    ]
+   ],
+   "colors": {
+    "sub": "Obě provedení",
+    "items": [
+     {
+      "name": "Black",
+      "style": "background:#161616"
+     }
+    ]
+   },
+   "fruit": {
+    "icons": [
+     "ovoce/granatove-jablko.svg"
+    ],
+    "text": "První vysoce výkonný lis navržený speciálně pro všechny druhy granátových jablek. Šťáva nepřijde do kontaktu se slupkou.",
+    "items": [
+     "Granátová jablka"
+    ],
+    "kits": [
+     [
+      "Kit M (standard)",
+      "75–95 mm"
+     ],
+     [
+      "Kit S Pomegranates",
+      "65–85 mm"
+     ]
+    ],
+    "note": ""
+   },
+   "dims": {
+    "groups": [
+     {
+      "name": "All-in-One Wide",
+      "rows": [
+       [
+        "Výška",
+        "1 775 mm"
+       ],
+       [
+        "Šířka",
+        "810 mm"
+       ],
+       [
+        "Hloubka",
+        "682 mm"
+       ],
+       [
+        "Hmotnost",
+        "135 kg"
+       ]
+      ]
+     },
+     {
+      "name": "All-in-One Narrow",
+      "rows": [
+       [
+        "Výška",
+        "1 775 mm"
+       ],
+       [
+        "Šířka",
+        "710 mm"
+       ],
+       [
+        "Hloubka",
+        "682 mm"
+       ],
+       [
+        "Hmotnost",
+        "131,1 kg"
+       ]
+      ]
+     }
+    ],
+    "notes": [
+     "Údaje výrobce. Přesné rozměry pro vaši konfiguraci rádi ověříme."
+    ],
+    "drawing": [
+     "1 775 mm",
+     "810 mm"
+    ]
+   }
+  },
+  {
+   "id": "zitrux",
+   "card": {
+    "id": "zitrux",
+    "category": "samocistici",
+    "demand": "velmi-vysoka",
+    "business": "obchody",
+    "search": "Zitrux Zitrux je kompletní samoobslužné řešení pro prodej čerstvé citrusové šťávy v supermarketu. Spojuje automatické podávání, lisování a samočisticí systém, který omezuje rutinní rozebírání lisovacího prostoru.",
+    "overline": "Samočisticí",
+    "name": "Zitrux",
+    "text": "Zitrux je kompletní samoobslužné řešení pro prodej čerstvé citrusové šťávy v supermarketu.",
+    "img": "7-0.webp",
+    "specs": [
+     [
+      "Zásoba ovoce",
+      "75 kg"
+     ],
+     [
+      "Kapacita odpadu",
+      "120 l"
+     ]
+    ]
+   },
+   "title": "Zitrux | Zumex Česko",
+   "desc": "Profesionální odšťavňovače Zumex pro kavárny, hotely, retail i průmyslovou výrobu. Objevte celý svět čerstvé šťávy.",
+   "img": "7-0.webp",
+   "kategorie": "Samočisticí",
+   "name": "Zitrux",
+   "claim": "Čerstvá šťáva. Čistá autonomie.",
+   "perex": "Samočisticí řešení pro supermarkety a velké prodejny. Zitrux spojuje vysokou kapacitu ovoce, nepřetržitý provoz a automatizované čištění.",
+   "metrics": [
+    [
+     "40 plodů/min",
+     "Výkon"
+    ],
+    [
+     "75 kg",
+     "Kapacita ovoce"
+    ],
+    [
+     "120 l",
+     "Odpadní prostor"
+    ]
+   ],
+   "story": [
+    "Zitrux je kompletní samoobslužné řešení pro prodej čerstvé citrusové šťávy v supermarketu. Spojuje automatické podávání, lisování a samočisticí systém, který omezuje rutinní rozebírání lisovacího prostoru.",
+    "Zásoba až 75 kg pomerančů, automatický výtah a 120litrová kapacita odpadu umožňují dlouhé intervaly mezi doplňováním. Bezkontaktní kohoutek a interaktivní displej usnadňují nákup zákazníkovi i obsluhu personálu."
+   ],
+   "feats": [
+    "Automatizované čištění a sanitace.",
+    "Velká kapacita pro vytížené prodejny.",
+    "Čerstvá šťáva přímo v místě prodeje."
+   ],
+   "gallery": [
+    [
+     "g7-0.webp",
+     "Zitrux — produktový detail"
+    ],
+    [
+     "g7-1.webp",
+     "Zitrux — produktový detail"
+    ]
+   ],
+   "variants": [
+    {
+     "name": "Zitrux",
+     "text": "Instalaci naplánujeme jako celé prodejní místo včetně doplňování ovoce a přístupu k odpadu. Pro čištění je nutné dodržovat provozní a sanitární postupy výrobce.",
+     "img": ""
+    }
+   ],
+   "params": [
+    [
+     "Zásoba ovoce",
+     "75 kg"
+    ],
+    [
+     "Kapacita odpadu",
+     "120 l"
+    ],
+    [
+     "Podávání",
+     "Automatický výtah"
+    ],
+    [
+     "Čištění",
+     "Automatické čištění a sanitace"
+    ],
+    [
+     "Výdej",
+     "Bezkontaktní kohoutek"
+    ],
+    [
+     "Ovládání",
+     "Interaktivní displej"
+    ],
+    [
+     "Určení",
+     "Supermarkety a intenzivní samoobsluha"
+    ],
+    [
+     "Výkon",
+     "40 plodů/min"
+    ],
+    [
+     "Průměr ovoce",
+     "65–81 mm (Kit M)"
+    ],
+    [
+     "Rychlost",
+     "1 sklenice 250 ml za 5 s"
+    ],
+    [
+     "Typ provozu",
+     "Velmi vysoký"
+    ],
+    [
+     "Napájení",
+     "208–240 V, 50/60 Hz"
+    ],
+    [
+     "Příkon",
+     "Lisování 249 W / čištění 260 W"
+    ],
+    [
+     "Konektivita",
+     "GSM a Wi-Fi"
+    ],
+    [
+     "Hladina hluku",
+     "Pod 70 dB"
+    ],
+    [
+     "Rozměry (š × h × v)",
+     "1 750 × 740 × 1 920 mm"
+    ],
+    [
+     "Hmotnost",
+     "325 kg"
+    ],
+    [
+     "Výška plnění",
+     "296 mm"
+    ],
+    [
+     "Kapacita lahví (4 police)",
+     "96 × 1 l / 122 × 0,5 l / 122 × 0,33 l / 144 × 0,25 l"
+    ],
+    [
+     "Přívod vody",
+     "G3/4, min. 12 l/min při 2,5 bar, měkká voda 5–8 °fH"
+    ],
+    [
+     "Odpad vody",
+     "Hadice 20 mm"
+    ]
+   ],
+   "param_note": "Údaje výrobce pro uvedené provedení. Výkon závisí na surovině a konfiguraci.",
+   "source": "https://www.zumex.com/en/juicers/zitrux/",
+   "selection": "Instalaci naplánujeme jako celé prodejní místo včetně doplňování ovoce a přístupu k odpadu. Pro čištění je nutné dodržovat provozní a sanitární postupy výrobce.",
+   "docs": [
+    [
+     "Oficiální produktová stránka",
+     "https://www.zumex.com/en/juicers/zitrux/"
+    ],
+    [
+     "Dokumentace výrobce 1 · PDF",
+     "dokumentace/zumex-5.pdf"
+    ],
+    [
+     "Dokumentace výrobce 2 · PDF",
+     "dokumentace/zumex-13.pdf"
+    ],
+    [
+     "Dokumentace výrobce 3 · PDF",
+     "dokumentace/zumex-7.pdf"
+    ]
+   ],
+   "tech": [
+    [
+     "Samočištění a sanitace",
+     "Jediný lis, který se sám vyčistí i sanitizuje."
+    ],
+    [
+     "Top Performance",
+     "Nejvyšší výtěžnost šťávy z kilogramu ovoce ve své kategorii."
+    ],
+    [
+     "Smart Juicing",
+     "Přehled vylisovaných litrů a posledního čištění, upozornění a videonávody."
+    ],
+    [
+     "Automatický výtah",
+     "Podává ovoce ze zásobníku až 75 kg."
+    ],
+    [
+     "Bezkontaktní kohoutek",
+     "Spustí se přiložením lahve, bez dotyku rukou."
+    ]
+   ],
+   "colors": null,
+   "fruit": {
+    "icons": [
+     "ovoce/pomeranc.svg"
+    ],
+    "text": "Zitrux je jediný lis, který se sám čistí a sanitizuje. Je určený pro pomeranče:",
+    "items": [
+     "Pomeranče"
+    ],
+    "kits": [
+     [
+      "Kit M",
+      "65–81 mm"
+     ]
+    ],
+    "note": ""
+   },
+   "dims": {
+    "groups": [
+     {
+      "name": "",
+      "rows": [
+       [
+        "Výška",
+        "1 920 mm"
+       ],
+       [
+        "Šířka",
+        "1 750 mm"
+       ],
+       [
+        "Hloubka",
+        "740 mm"
+       ],
+       [
+        "Hmotnost",
+        "325 kg"
+       ],
+       [
+        "Půdorys",
+        "1,29 m²"
+       ]
+      ]
+     }
+    ],
+    "notes": [
+     "Údaje výrobce. Přesné rozměry pro vaši konfiguraci rádi ověříme."
+    ],
+    "drawing": [
+     "1 920 mm",
+     "1 750 mm"
+    ]
+   }
+  },
+  {
+   "id": "zitrux-compact",
+   "card": {
+    "id": "zitrux-compact",
+    "category": "samocistici",
+    "demand": "velmi-vysoka",
+    "business": "obchody",
+    "search": "Zitrux Compact Zitrux Compact přináší samočisticí technologii do menšího prodejního prostoru. Půdorys 0,46 m² usnadňuje umístění v supermarketu i menší prodejně, přitom stroj zvládá až 40 plodů za minutu.",
+    "overline": "Samočisticí",
+    "name": "Zitrux Compact",
+    "text": "Zitrux Compact přináší samočisticí technologii do menšího prodejního prostoru.",
+    "img": "8-0.webp",
+    "specs": [
+     [
+      "Výkon",
+      "Až 40 plodů/min"
+     ],
+     [
+      "Nepřetržité zpracování",
+      "Až 30 kg ovoce"
+     ]
+    ]
+   },
+   "title": "Zitrux Compact | Zumex Česko",
+   "desc": "Profesionální odšťavňovače Zumex pro kavárny, hotely, retail i průmyslovou výrobu. Objevte celý svět čerstvé šťávy.",
+   "img": "8-0.webp",
+   "kategorie": "Samočisticí",
+   "name": "Zitrux Compact",
+   "claim": "Více možností na menší ploše.",
+   "perex": "Samočisticí technologie Zitrux v kompaktním provedení. Navržena pro obchody, které chtějí nabídnout čerstvou šťávu a efektivně využít prodejní plochu.",
+   "metrics": [
+    [
+     "40 plodů/min",
+     "Výkon"
+    ],
+    [
+     "30 kg",
+     "Nepřetržité zpracování"
+    ],
+    [
+     "0,46 m²",
+     "Zastavěná plocha"
+    ]
+   ],
+   "story": [
+    "Zitrux Compact přináší samočisticí technologii do menšího prodejního prostoru. Půdorys 0,46 m² usnadňuje umístění v supermarketu i menší prodejně, přitom stroj zvládá až 40 plodů za minutu.",
+    "Horní automatický podavač umožňuje zpracovat až 30 kg ovoce bez přerušení. Uzavřený lisovací prostor a volumetrický kohoutek mají automatickou sanitaci. Zumex Connect nabízí vzdálený přehled, upozornění i správu čisticích pokynů."
+   ],
+   "feats": [
+    "Kompaktní řešení samoobslužného prodeje.",
+    "Automatizované čištění.",
+    "Odpadní kapacita 52 litrů."
+   ],
+   "gallery": [
+    [
+     "g8-0.webp",
+     "Zitrux Compact — produktový detail"
+    ],
+    [
+     "g8-1.webp",
+     "Zitrux Compact — produktový detail"
+    ]
+   ],
+   "variants": [
+    {
+     "name": "Zitrux Compact",
+     "text": "Při plánování místa počítejte kromě půdorysu s obslužným přístupem. Režim doplňování ovoce a vyprazdňování odpadu lze přizpůsobit každodennímu provozu prodejny.",
+     "img": ""
+    }
+   ],
+   "params": [
+    [
+     "Výkon",
+     "Až 40 plodů/min"
+    ],
+    [
+     "Nepřetržité zpracování",
+     "Až 30 kg ovoce"
+    ],
+    [
+     "Půdorysná plocha",
+     "0,46 m²"
+    ],
+    [
+     "Odpadní nádoba",
+     "52 l"
+    ],
+    [
+     "Podávání",
+     "Horní automatický zásobník"
+    ],
+    [
+     "Výdej",
+     "Volumetrický kohoutek"
+    ],
+    [
+     "Čištění",
+     "Automatické čištění a sanitace"
+    ],
+    [
+     "Konektivita",
+     "Zumex Connect"
+    ],
+    [
+     "Průměr ovoce",
+     "65–81 mm (Kit M)"
+    ],
+    [
+     "Rychlost",
+     "1 sklenice 250 ml za 5 s"
+    ],
+    [
+     "Typ provozu",
+     "Velmi vysoký"
+    ],
+    [
+     "Napájení",
+     "208–240 V, 50/60 Hz"
+    ],
+    [
+     "Příkon při lisování",
+     "260 W | 0,34 HP"
+    ],
+    [
+     "Hladina hluku",
+     "Pod 70 dB"
+    ],
+    [
+     "Rozměry (š × h × v)",
+     "631 × 736 × 1 772 mm"
+    ],
+    [
+     "Hmotnost",
+     "183 kg"
+    ],
+    [
+     "Přívod vody",
+     "G3/4, min. 12 l/min při 2,5 bar, měkká voda 5–8 °fH"
+    ]
+   ],
+   "param_note": "Údaje výrobce pro uvedené provedení. Výkon závisí na surovině a konfiguraci.",
+   "source": "https://www.zumex.com/en/juicers/zitrux/zitrux-compact/",
+   "selection": "Při plánování místa počítejte kromě půdorysu s obslužným přístupem. Režim doplňování ovoce a vyprazdňování odpadu lze přizpůsobit každodennímu provozu prodejny.",
+   "docs": [
+    [
+     "Oficiální produktová stránka",
+     "https://www.zumex.com/en/juicers/zitrux/zitrux-compact/"
+    ],
+    [
+     "Dokumentace výrobce 1 · PDF",
+     "dokumentace/zumex-2.pdf"
+    ],
+    [
+     "Dokumentace výrobce 2 · PDF",
+     "dokumentace/zumex-17.pdf"
+    ],
+    [
+     "Dokumentace výrobce 3 · PDF",
+     "dokumentace/zumex-14.pdf"
+    ]
+   ],
+   "tech": [
+    [
+     "Samočištění a dezinfekce",
+     "Lisovací prostor se sám čistí a dezinfikuje, je uzavřený a s termoizolačním okénkem."
+    ],
+    [
+     "Volumetrický kohoutek",
+     "Automatická dezinfekce při každém cyklu."
+    ],
+    [
+     "Zumex Connect",
+     "Vzdálená správa, upozornění v reálném čase a videa pro zákazníky."
+    ],
+    [
+     "Synchronizace odpadu",
+     "Plnění a vyprazdňování odpadu (52 l) v jednom kroku."
+    ]
+   ],
+   "colors": null,
+   "fruit": {
+    "icons": [
+     "ovoce/pomeranc.svg"
+    ],
+    "text": "Samočisticí lis nové generace v kompaktním provedení. Je určený pro pomeranče:",
+    "items": [
+     "Pomeranče"
+    ],
+    "kits": [
+     [
+      "Kit M",
+      "65–81 mm"
+     ]
+    ],
+    "note": ""
+   },
+   "dims": {
+    "groups": [
+     {
+      "name": "",
+      "rows": [
+       [
+        "Výška",
+        "1 772 mm"
+       ],
+       [
+        "Šířka",
+        "631 mm"
+       ],
+       [
+        "Hloubka",
+        "736 mm"
+       ],
+       [
+        "Hmotnost",
+        "183 kg"
+       ],
+       [
+        "Půdorys",
+        "0,46 m²"
+       ]
+      ]
+     }
+    ],
+    "notes": [
+     "Údaje výrobce. Přesné rozměry pro vaši konfiguraci rádi ověříme."
+    ],
+    "drawing": [
+     "1 772 mm",
+     "631 mm"
+    ]
+   }
+  },
+  {
+   "id": "multifruit",
+   "card": {
+    "id": "multifruit",
+    "category": "odstavnovace",
+    "demand": "vysoka",
+    "business": "kavarny bary hotely",
+    "search": "Multifruit Multifruit rozšiřuje nabídku o šťávy z ovoce i zeleniny: od jablek a mrkve po okurku, ananas nebo zázvor. Odstředivý systém se dvěma rychlostmi je vhodný pro juice bary, kavárny a kuchyně, které chtějí kombinovat různé suroviny.",
+    "overline": "Multifruit",
+    "name": "Multifruit",
+    "text": "Multifruit rozšiřuje nabídku o šťávy z ovoce i zeleniny: od jablek a mrkve po okurku, ananas nebo zázvor.",
+    "img": "main9.png",
+    "specs": [
+     [
+      "Zpracování suroviny",
+      "120 kg/h"
+     ],
+     [
+      "Orientační průtok",
+      "1,8 l/min"
+     ]
+    ]
+   },
+   "title": "Multifruit | Zumex Česko",
+   "desc": "Profesionální odšťavňovače Zumex pro kavárny, hotely, retail i průmyslovou výrobu. Objevte celý svět čerstvé šťávy.",
+   "img": "main9.png",
+   "kategorie": "Multifruit",
+   "name": "Multifruit",
+   "claim": "Svoboda kombinovat.",
+   "perex": "Odšťavňovač pro ovoce i zeleninu. Připravujte vlastní kombinace chutí v juice barech, kavárnách a profesionálních kuchyních.",
+   "metrics": [
+    [
+     "120 kg/h",
+     "Zpracování"
+    ],
+    [
+     "1,8 l/min",
+     "Výkon"
+    ],
+    [
+     "2 rychlosti",
+     "Nastavení"
+    ]
+   ],
+   "story": [
+    "Multifruit rozšiřuje nabídku o šťávy z ovoce i zeleniny: od jablek a mrkve po okurku, ananas nebo zázvor. Odstředivý systém se dvěma rychlostmi je vhodný pro juice bary, kavárny a kuchyně, které chtějí kombinovat různé suroviny.",
+    "Bezkartáčový motor, titanový strouhací kotouč a optimalizovaný filtr tvoří základ průběžného odšťavňování. Velká nádoba na odpad pojme 13 litrů; alternativně lze řešit odvod pod pracovní desku."
+   ],
+   "feats": [
+    "Volba rychlosti podle surovin.",
+    "Odpadní nádoba s objemem 13 litrů.",
+    "Černé, stříbrné a třešňové provedení."
+   ],
+   "gallery": [
+    [
+     "g9-0.webp",
+     "Multifruit — produktový detail"
+    ],
+    [
+     "g9-1.webp",
+     "Multifruit — produktový detail"
+    ]
+   ],
+   "variants": [
+    {
+     "name": "Multifruit",
+     "text": "Volte rychlost a přípravu surovin podle návodu. Výsledný průtok závisí na jejich druhu a zralosti. Pro rychlé čištění je důležitý pravidelný přístup k filtru a nádobě na dužinu.",
+     "img": ""
+    }
+   ],
+   "params": [
+    [
+     "Zpracování suroviny",
+     "120 kg/h"
+    ],
+    [
+     "Orientační průtok",
+     "1,8 l/min"
+    ],
+    [
+     "Rychlosti",
+     "3 500 / 4 500 ot./min"
+    ],
+    [
+     "Průměr vstupu",
+     "Do 75 mm"
+    ],
+    [
+     "Rozměry (š × h × v)",
+     "290 × 500 × 510 mm"
+    ],
+    [
+     "Hmotnost",
+     "15 kg"
+    ],
+    [
+     "Příkon",
+     "870 W"
+    ],
+    [
+     "Odpadní nádoba",
+     "13 l"
+    ],
+    [
+     "Krytí",
+     "IPX1"
+    ],
+    [
+     "Barvy",
+     "Cherry / Black / Silver (viz Barvy)"
+    ],
+    [
+     "Napájení",
+     "220–240 V, 50–60 Hz / 100–240 V, 50–60 Hz / 115 V, 60 Hz"
+    ],
+    [
+     "Spotřeba proudu",
+     "1,8 A"
+    ],
+    [
+     "Hladina hluku",
+     "Pod 70 dB"
+    ],
+    [
+     "Výdej",
+     "Přímo do konvice nebo sklenice"
+    ]
+   ],
+   "param_note": "Údaje výrobce pro uvedené provedení. Výkon závisí na surovině a konfiguraci.",
+   "source": "https://www.zumex.com/en/juice-extractors/multifruit/",
+   "selection": "Volte rychlost a přípravu surovin podle návodu. Výsledný průtok závisí na jejich druhu a zralosti. Pro rychlé čištění je důležitý pravidelný přístup k filtru a nádobě na dužinu.",
+   "docs": [
+    [
+     "Oficiální produktová stránka",
+     "https://www.zumex.com/en/juice-extractors/multifruit/"
+    ],
+    [
+     "Dokumentace výrobce 1 · PDF",
+     "dokumentace/zumex-3.pdf"
+    ],
+    [
+     "Dokumentace výrobce 2 · PDF",
+     "dokumentace/zumex-8.pdf"
+    ],
+    [
+     "Dokumentace výrobce 3 · PDF",
+     "dokumentace/zumex-22.pdf"
+    ]
+   ],
+   "tech": [
+    [
+     "Bezkartáčový motor",
+     "Až 4× delší životnost než běžný motor, bez tření a zahřívání."
+    ],
+    [
+     "Titanový strouhací disk",
+     "Maximální tvrdost a dlouhodobě ostrý řez pro všechno ovoce a zeleninu."
+    ],
+    [
+     "Speed Control System",
+     "Dvě rychlosti, víc výkonu, když je potřeba."
+    ],
+    [
+     "Silent Block System",
+     "Tlumí vibrace, provoz pod 70 dB."
+    ]
+   ],
+   "colors": {
+    "sub": "3 barvy",
+    "items": [
+     {
+      "name": "Cherry",
+      "style": "background:#8e1b2b"
+     },
+     {
+      "name": "Black",
+      "style": "background:#161616"
+     },
+     {
+      "name": "Silver",
+      "style": "background:linear-gradient(135deg,rgba(255,255,255,.75),rgba(255,255,255,0) 40%,rgba(0,0,0,.18) 60%,rgba(255,255,255,.5)),#c7c9cc"
+     }
+    ]
+   },
+   "fruit": {
+    "icons": [
+     "ovoce/ananas.svg",
+     "ovoce/mrkev.svg",
+     "ovoce/jablko.svg",
+     "ovoce/okurka.svg",
+     "ovoce/zazvor.svg"
+    ],
+    "text": "Multifruit zpracuje všechny druhy ovoce a zeleniny, i ty nejtvrdší. Například:",
+    "items": [
+     "Ananas",
+     "Mrkev",
+     "Jablka",
+     "Okurky a celer",
+     "Zázvor"
+    ],
+    "kits": [
+     [
+      "Vstupní otvor",
+      "až 75 mm"
+     ]
+    ],
+    "note": ""
+   },
+   "dims": {
+    "groups": [
+     {
+      "name": "",
+      "rows": [
+       [
+        "Výška",
+        "510 mm"
+       ],
+       [
+        "Šířka",
+        "290 mm"
+       ],
+       [
+        "Hloubka",
+        "500 mm"
+       ],
+       [
+        "Hmotnost",
+        "15 kg"
+       ]
+      ]
+     }
+    ],
+    "notes": [
+     "Údaje výrobce. Přesné rozměry pro vaši konfiguraci rádi ověříme."
+    ],
+    "drawing": [
+     "510 mm",
+     "290 mm"
+    ]
+   }
+  },
+  {
+   "id": "pineomatic",
+   "card": {
+    "id": "pineomatic",
+    "category": "ananas",
+    "demand": "vysoka",
+    "business": "obchody hotely",
+    "search": "Pineomatic Pineomatic je automatický kráječ ananasu pro prodej hotového čerstvého ovoce. Zákazník vloží nádobu a ananas; stroj následně připraví oloupaný a nakrájený produkt bez ruční práce s nožem.",
+    "overline": "Multifruit",
+    "name": "Pineomatic",
+    "text": "Pineomatic je automatický kráječ ananasu pro prodej hotového čerstvého ovoce.",
+    "img": "10-0.webp",
+    "specs": [
+     [
+      "Zpracovávaná surovina",
+      "Ananas"
+     ],
+     [
+      "Doba přípravy",
+      "Přibližně 30 sekund"
+     ]
+    ]
+   },
+   "title": "Pineomatic | Zumex Česko",
+   "desc": "Profesionální odšťavňovače Zumex pro kavárny, hotely, retail i průmyslovou výrobu. Objevte celý svět čerstvé šťávy.",
+   "img": "10-0.webp",
+   "kategorie": "Multifruit",
+   "name": "Pineomatic",
+   "claim": "Čerstvý ananas bez námahy.",
+   "perex": "Bezdotykový kráječ ananasu pro samoobslužný prodej. Zákazník si může vybrat podobu zpracování podle toho, jak si chce ovoce vychutnat.",
+   "metrics": [
+    [
+     "4 formáty",
+     "Zpracování"
+    ],
+    [
+     "Bezdotykové",
+     "Ovládání"
+    ],
+    [
+     "Retail",
+     "Určení"
+    ]
+   ],
+   "story": [
+    "Pineomatic je automatický kráječ ananasu pro prodej hotového čerstvého ovoce. Zákazník vloží nádobu a ananas; stroj následně připraví oloupaný a nakrájený produkt bez ruční práce s nožem.",
+    "Jedno zařízení umožňuje čtyři formy řezu: kolečka, podélné dílky, kousky nebo válec. Displej s instruktážními videi vede zákazníka jednotlivými kroky a usnadňuje samoobslužné použití v prodejně."
+   ],
+   "feats": [
+    "Plátky, hranolky, kousky nebo válec.",
+    "Příprava čerstvého ananasu přímo v obchodě.",
+    "Samoobslužný zážitek pro zákazníka."
+   ],
+   "gallery": [
+    [
+     "g10-0.webp",
+     "Pineomatic — produktový detail"
+    ]
+   ],
+   "variants": [
+    {
+     "name": "Pineomatic",
+     "text": "Před objednáním společně zvolíme požadovaný řez, vhodné nádoby a umístění stroje. Rozměry a kompatibilní velikost plodu potvrdíme v nabídce pro dané provedení.",
+     "img": ""
+    }
+   ],
+   "params": [
+    [
+     "Zpracovávaná surovina",
+     "Ananas"
+    ],
+    [
+     "Doba přípravy",
+     "Přibližně 30 sekund"
+    ],
+    [
+     "Možnosti řezu",
+     "Kolečka / dílky / kousky / válec"
+    ],
+    [
+     "Obsluha",
+     "Bezkontaktní aktivace"
+    ],
+    [
+     "Navigace zákazníka",
+     "Displej s videonávody"
+    ],
+    [
+     "Pohon",
+     "2 elektromotory"
+    ],
+    [
+     "Zásobník",
+     "Na 40 ananasů"
+    ],
+    [
+     "Šířka",
+     "642 mm"
+    ],
+    [
+     "Údržba",
+     "Bez opotřebitelných dílů a pravidelné údržby"
+    ]
+   ],
+   "param_note": "Údaje výrobce pro uvedené provedení. Výkon závisí na surovině a konfiguraci.",
+   "source": "https://www.zumex.com/en/pineomatic/",
+   "selection": "Před objednáním společně zvolíme požadovaný řez, vhodné nádoby a umístění stroje. Rozměry a kompatibilní velikost plodu potvrdíme v nabídce pro dané provedení.",
+   "docs": [
+    [
+     "Oficiální produktová stránka",
+     "https://www.zumex.com/en/pineomatic/"
+    ]
+   ],
+   "tech": [
+    [
+     "Touchless",
+     "Zákazník jen přistaví nádobu a vhodí ananas, bez kontaktu se strojem."
+    ],
+    [
+     "Dotykový displej s videonávody",
+     "Provede zákazníka krok za krokem."
+    ],
+    [
+     "Velká odpadní nádoba",
+     "Autonomie na celý den."
+    ]
+   ],
+   "colors": null,
+   "fruit": {
+    "icons": [
+     "ovoce/ananas.svg"
+    ],
+    "text": "Pineomatic oloupe a nakrájí ananas zhruba za půl minuty. Na jednom stroji zvládne 4 typy řezu:",
+    "items": [
+     "Kolečka",
+     "Dílky",
+     "Kousky",
+     "Válec"
+    ],
+    "kits": [],
+    "note": ""
+   },
+   "dims": {
+    "groups": [
+     {
+      "name": "",
+      "rows": [
+       [
+        "Šířka",
+        "642 mm"
+       ]
+      ]
+     }
+    ],
+    "notes": [
+     "Výšku, hloubku a hmotnost vám potvrdíme při poptávce.",
+     "Údaje výrobce. Přesné rozměry pro vaši konfiguraci rádi ověříme."
+    ],
+    "drawing": null
+   }
+  },
+  {
+   "id": "mastery",
+   "card": {
+    "id": "mastery",
+    "category": "cold-press",
+    "demand": "vyroba",
+    "business": "vyroba bary",
+    "search": "Mastery Mastery je lis pro výrobu šťáv za studena z ovoce a zeleniny. Hodí se pro samostatné výrobní projekty i rozšíření nabídky juice baru, pokud potřebujete mít pod kontrolou receptury a průběh lisování.",
+    "overline": "Cold Press",
+    "name": "Mastery",
+    "text": "Mastery je lis pro výrobu šťáv za studena z ovoce a zeleniny.",
+    "img": "11-0.webp",
+    "specs": [
+     [
+      "Technologie",
+      "Cold Press — lisování za studena"
+     ],
+     [
+      "Suroviny",
+      "Ovoce a zelenina"
+     ]
+    ]
+   },
+   "title": "Mastery | Zumex Česko",
+   "desc": "Profesionální odšťavňovače Zumex pro kavárny, hotely, retail i průmyslovou výrobu. Objevte celý svět čerstvé šťávy.",
+   "img": "11-0.webp",
+   "kategorie": "Cold Press",
+   "name": "Mastery",
+   "claim": "Za studena. S plnou chutí.",
+   "perex": "Profesionální technologie lisování za studena pro výrobce šťáv a juice bary. Mastery zpracovává širokou paletu surovin a dává prostor vlastním recepturám.",
+   "metrics": [
+    [
+     "Až 110 l/h",
+     "Dle suroviny"
+    ],
+    [
+     "200 kg/h",
+     "Výrobní kapacita"
+    ],
+    [
+     "Cold Press",
+     "Technologie"
+    ]
+   ],
+   "story": [
+    "Mastery je lis pro výrobu šťáv za studena z ovoce a zeleniny. Hodí se pro samostatné výrobní projekty i rozšíření nabídky juice baru, pokud potřebujete mít pod kontrolou receptury a průběh lisování.",
+    "Nastavitelný tlak a rychlost umožňují přizpůsobit proces surovině. Kompaktní robustní konstrukce spojuje kroky potřebné pro cold-press výrobu; sestavu je vhodné navrhnout společně s přípravou surovin, skladováním a plněním."
+   ],
+   "feats": [
+    "Lisování ovocných i zeleninových směsí.",
+    "Pro malosériovou profesionální výrobu.",
+    "Výsledný výkon závisí na receptuře a vstupní surovině."
+   ],
+   "gallery": [
+    [
+     "g11-0.webp",
+     "Mastery — produktový detail"
+    ],
+    [
+     "g11-1.webp",
+     "Mastery — produktový detail"
+    ]
+   ],
+   "variants": [
+    {
+     "name": "Mastery",
+     "text": "Kapacitu ověříme podle receptur a konkrétní konfigurace. U tohoto modelu je důležité posuzovat celý pracovní cyklus, ne pouze rychlost samotného lisování.",
+     "img": ""
+    }
+   ],
+   "params": [
+    [
+     "Technologie",
+     "Cold Press — lisování za studena"
+    ],
+    [
+     "Suroviny",
+     "Ovoce a zelenina"
+    ],
+    [
+     "Regulace",
+     "Nastavitelný tlak a rychlost"
+    ],
+    [
+     "Konstrukce",
+     "Kompaktní průmyslové provedení"
+    ],
+    [
+     "Elektrický příkon",
+     "2,25 kW"
+    ],
+    [
+     "Hmotnost",
+     "303 kg"
+    ],
+    [
+     "Lisovací síla",
+     "11 t"
+    ],
+    [
+     "Výkon",
+     "Až 110 l/h (podle suroviny)"
+    ],
+    [
+     "Nádoba na šťávu",
+     "11 l"
+    ],
+    [
+     "Materiál lisu",
+     "Nerez AISI 304 a AISI 316"
+    ],
+    [
+     "Motor",
+     "Bezkartáčový"
+    ],
+    [
+     "Ovládání",
+     "Dotykový barevný displej 4,3\""
+    ],
+    [
+     "Režimy",
+     "Manuální / poloautomatický"
+    ],
+    [
+     "Bezpečnost",
+     "Bezpečnostní senzory, ochrana proti přetížení, nouzové tlačítko"
+    ],
+    [
+     "Certifikace",
+     "NSF"
+    ],
+    [
+     "Rozměry (š × h × v)",
+     "735 × 940 × 1 700 mm"
+    ]
+   ],
+   "param_note": "Údaje výrobce pro uvedené provedení. Výkon závisí na surovině a konfiguraci.",
+   "source": "https://www.zumex.com/en/industrial/squeezed/cold-press/",
+   "selection": "Kapacitu ověříme podle receptur a konkrétní konfigurace. U tohoto modelu je důležité posuzovat celý pracovní cyklus, ne pouze rychlost samotného lisování.",
+   "docs": [
+    [
+     "Oficiální produktová stránka",
+     "https://www.zumex.com/en/industrial/squeezed/cold-press/"
+    ]
+   ],
+   "tech": [
+    [
+     "Lisování za studena",
+     "Celý proces lisování bez oxidace šťávy."
+    ],
+    [
+     "Nastavitelný tlak a rychlost",
+     "Řízení drcení, lisování a cyklů v reálném čase."
+    ],
+    [
+     "Výbava v ceně",
+     "2 lisovací desky, 3 lisovací vaky (jemný, střední, hrubý), 3 strouhací disky, nádoba s filtrem, čisticí sada."
+    ]
+   ],
+   "colors": null,
+   "fruit": {
+    "icons": [
+     "ovoce/jablko.svg",
+     "ovoce/pomeranc.svg",
+     "ovoce/mrkev.svg",
+     "ovoce/cervena-repa.svg",
+     "ovoce/listova-zelenina.svg"
+    ],
+    "text": "Mastery lisuje ovoce i zeleninu za studena a zachovává jejich vlastnosti. Programy jsou připravené pro:",
+    "items": [
+     "Tvrdé ovoce (jablka)",
+     "Měkké, šťavnaté ovoce",
+     "Mrkev",
+     "Červená řepa",
+     "Listová zelenina"
+    ],
+    "kits": [],
+    "note": "Programy: měkké ovoce, tvrdé ovoce, listová zelenina, mix a vlastní nastavení."
+   },
+   "dims": {
+    "groups": [
+     {
+      "name": "",
+      "rows": [
+       [
+        "Výška",
+        "1 700 mm"
+       ],
+       [
+        "Šířka",
+        "735 mm"
+       ],
+       [
+        "Hloubka",
+        "940 mm"
+       ],
+       [
+        "Hmotnost",
+        "303 kg"
+       ]
+      ]
+     }
+    ],
+    "notes": [
+     "Údaje výrobce. Přesné rozměry pro vaši konfiguraci rádi ověříme."
+    ],
+    "drawing": [
+     "1 700 mm",
+     "735 mm"
+    ]
+   }
+  },
+  {
+   "id": "z450-z450p",
+   "card": {
+    "id": "z450-z450p",
+    "category": "prumyslove",
+    "demand": "vyroba",
+    "business": "vyroba",
+    "search": "Z450 / Z450P Pomegranate Z450 je průmyslový citrusový lis pro kontinuální zpracování větších objemů ovoce. Řada pokrývá výrobu od stovek litrů šťávy za hodinu; varianta Z450P je zaměřena na granátová jablka.",
+    "overline": "Průmyslové",
+    "name": "Z450 / Z450P",
+    "text": "Z450 je průmyslový citrusový lis pro kontinuální zpracování větších objemů ovoce.",
+    "img": "12-0.webp",
+    "specs": [
+     [
+      "Rozsah produkce řady",
+      "450–1 580 l/h"
+     ],
+     [
+      "Rozsah zpracování ovoce",
+      "1 100–2 200 kg/h"
+     ]
+    ]
+   },
+   "title": "Z450 / Z450P | Zumex Česko",
+   "desc": "Profesionální odšťavňovače Zumex pro kavárny, hotely, retail i průmyslovou výrobu. Objevte celý svět čerstvé šťávy.",
+   "img": "12-0.webp",
+   "kategorie": "Průmyslové",
+   "name": "Z450 / Z450P",
+   "claim": "Citrusy v průmyslovém měřítku.",
+   "perex": "Průmyslové odšťavňování pro výrobní provozy. Z450 je určen pro citrusy, varianta Z450P pro granátová jablka.",
+   "metrics": [
+    [
+     "450–1 580 l/h",
+     "Rozsah výroby"
+    ],
+    [
+     "1 100–2 200 kg/h",
+     "Vstup ovoce"
+    ],
+    [
+     "Nerez",
+     "Konstrukce"
+    ]
+   ],
+   "story": [
+    "Z450 je průmyslový citrusový lis pro kontinuální zpracování větších objemů ovoce. Řada pokrývá výrobu od stovek litrů šťávy za hodinu; varianta Z450P je zaměřena na granátová jablka.",
+    "Nerezová konstrukce a možnost začlenění do linky podporují návaznost od podávání ovoce po další zpracování šťávy. Správná lisovací konfigurace se vybírá podle druhu a velikosti plodů i požadované kapacity."
+   ],
+   "feats": [
+    "Kontinuální zpracování velkého množství ovoce.",
+    "Volba podle typu vstupní suroviny.",
+    "Začlenění do kompletní výrobní linky."
+   ],
+   "gallery": [
+    [
+     "g12-0.webp",
+     "Z450 / Z450P — produktový detail"
+    ],
+    [
+     "g12-1.webp",
+     "Z450 / Z450P — produktový detail"
+    ]
+   ],
+   "variants": [
+    {
+     "name": "Z450",
+     "text": "Uvedený rozsah se vztahuje k celé řadě a závisí na surovině a konfiguraci. Při návrhu ověříme výkon konkrétního modelu i napojení na předchozí a navazující zařízení.",
+     "img": ""
+    },
+    {
+     "name": "Z450P Pomegranate",
+     "text": "Uvedený rozsah se vztahuje k celé řadě a závisí na surovině a konfiguraci. Při návrhu ověříme výkon konkrétního modelu i napojení na předchozí a navazující zařízení.",
+     "img": ""
+    }
+   ],
+   "params": [
+    [
+     "Rozsah produkce řady",
+     "450–1 580 l/h"
+    ],
+    [
+     "Rozsah zpracování ovoce",
+     "1 100–2 200 kg/h"
+    ],
+    [
+     "Materiál",
+     "Nerezová ocel"
+    ],
+    [
+     "Příkon uváděný pro sestavu",
+     "2,1 kW"
+    ],
+    [
+     "Napájení",
+     "200–480 V, 50–60 Hz"
+    ],
+    [
+     "Hmotnost uváděné sestavy",
+     "730 kg"
+    ],
+    [
+     "Zaměření",
+     "Citrusy / granátová jablka dle varianty"
+    ],
+    [
+     "Výkon",
+     "Až 150 pomerančů/min"
+    ],
+    [
+     "Sady lisování",
+     "XS, S, M, L (40–100 mm)"
+    ],
+    [
+     "Elevátor",
+     "Až 40 kg ovoce ze zásobníku do lisu"
+    ],
+    [
+     "Rozměry sestavy (d × v × š)",
+     "2 560 × 1 250 × 2 270 mm"
+    ],
+    [
+     "Přípojky",
+     "Elektřina"
+    ]
+   ],
+   "param_note": "Údaje výrobce pro uvedené provedení. Výkon závisí na surovině a konfiguraci.",
+   "source": "https://www.zumex.com/en/industrial/squeezed/citrus-z450/",
+   "selection": "Uvedený rozsah se vztahuje k celé řadě a závisí na surovině a konfiguraci. Při návrhu ověříme výkon konkrétního modelu i napojení na předchozí a navazující zařízení.",
+   "docs": [
+    [
+     "Oficiální produktová stránka",
+     "https://www.zumex.com/en/industrial/squeezed/citrus-z450/"
+    ]
+   ],
+   "tech": [
+    [
+     "Modulární lisovací skupina",
+     "Sady XS, S, M a L podle velikosti ovoce."
+    ],
+    [
+     "Automatický elevátor",
+     "Plynulé podávání bez přerušení, rychlost podle velikosti ovoce."
+    ],
+    [
+     "Hlava pro granátová jablka",
+     "Speciální hlava a nože pro šťávu bez drcení semen (Z450P)."
+    ]
+   ],
+   "colors": null,
+   "fruit": {
+    "icons": [
+     "ovoce/pomeranc.svg",
+     "ovoce/citron.svg",
+     "ovoce/mandarinka.svg",
+     "ovoce/grapefruit.svg",
+     "ovoce/granatove-jablko.svg"
+    ],
+    "text": "Průmyslový lis Citrus Z450 lisuje citrusy bez hořkosti a s minimem dužniny a esenciálních olejů. Zpracuje:",
+    "items": [
+     "Pomeranče",
+     "Citrony a limetky",
+     "Mandarinky a klementinky",
+     "Grapefruity",
+     "Granátová jablka (Z450P)"
+    ],
+    "kits": [
+     [
+      "Sady XS, S, M, L",
+      "40–100 mm"
+     ]
+    ],
+    "note": "Verze Z450P má speciální hlavu pro šťávu z granátových jablek bez drcení semen."
+   },
+   "dims": {
+    "groups": [
+     {
+      "name": "Celá sestava",
+      "rows": [
+       [
+        "Délka × výška × šířka",
+        "2 560 × 1 250 × 2 270 mm"
+       ],
+       [
+        "Hmotnost",
+        "730 kg"
+       ]
+      ]
+     },
+     {
+      "name": "Lisovací hlava",
+      "rows": [
+       [
+        "Rozměry",
+        "1 100 × 1 300 × 2 010 mm"
+       ]
+      ]
+     },
+     {
+      "name": "Plnicí elevátor",
+      "rows": [
+       [
+        "Rozměry",
+        "2 540 × 640 × 520 mm"
+       ]
+      ]
+     }
+    ],
+    "notes": [
+     "Údaje výrobce. Přesné rozměry pro vaši konfiguraci rádi ověříme."
+    ],
+    "drawing": null
+   }
+  },
+  {
+   "id": "zbp",
+   "card": {
+    "id": "zbp",
+    "category": "prumyslove",
+    "demand": "vyroba",
+    "business": "vyroba",
+    "search": "ZBP 400 / 700 / 1100 ZBP je kontinuální pásový lis pro průmyslové zpracování ovoce a zeleniny. Plynulý průchod suroviny je vhodný pro linky, které potřebují souvislý přísun šťávy a stabilní návaznost na další výrobní kroky.",
+    "overline": "Průmyslové",
+    "name": "ZBP",
+    "text": "ZBP je kontinuální pásový lis pro průmyslové zpracování ovoce a zeleniny.",
+    "img": "13-0.webp",
+    "specs": [
+     [
+      "ZBP 400 — kapacita",
+      "400 kg/h"
+     ],
+     [
+      "ZBP 700 — kapacita",
+      "700 kg/h"
+     ]
+    ]
+   },
+   "title": "ZBP | Zumex Česko",
+   "desc": "Profesionální odšťavňovače Zumex pro kavárny, hotely, retail i průmyslovou výrobu. Objevte celý svět čerstvé šťávy.",
+   "img": "13-0.webp",
+   "kategorie": "Průmyslové",
+   "name": "ZBP",
+   "claim": "Plynulá výroba, kapka za kapkou.",
+   "perex": "Kontinuální pásové lisy pro výrobu ovocných a zeleninových šťáv. Tři velikosti umožňují zvolit kapacitu podle vašeho provozu.",
+   "metrics": [
+    [
+     "400 kg/h",
+     "ZBP 400"
+    ],
+    [
+     "700 kg/h",
+     "ZBP 700"
+    ],
+    [
+     "1 100 kg/h",
+     "ZBP 1100"
+    ]
+   ],
+   "story": [
+    "ZBP je kontinuální pásový lis pro průmyslové zpracování ovoce a zeleniny. Plynulý průchod suroviny je vhodný pro linky, které potřebují souvislý přísun šťávy a stabilní návaznost na další výrobní kroky.",
+    "Řadu tvoří ZBP 400, 700 a 1100. Rychlost pásu lze regulovat frekvenčním měničem; integrované čerpadlo a nádrž zjednodušují začlenění do technologie. Velikost lisu vybírejte podle množství připravené suroviny."
+   ],
+   "feats": [
+    "Kontinuální pásové lisování.",
+    "Tři výkonové velikosti.",
+    "Pro integraci do průmyslové linky."
+   ],
+   "gallery": [
+    [
+     "g13-0.webp",
+     "ZBP — produktový detail"
+    ],
+    [
+     "g13-1.webp",
+     "ZBP — produktový detail"
+    ]
+   ],
+   "variants": [
+    {
+     "name": "ZBP 400",
+     "text": "Pásový lis musí výkonově navazovat na mytí a drcení. Pro návrh linky připravte druhy surovin, plánovaný hodinový objem a způsob dalšího zpracování šťávy.",
+     "img": ""
+    },
+    {
+     "name": "ZBP 700",
+     "text": "Pásový lis musí výkonově navazovat na mytí a drcení. Pro návrh linky připravte druhy surovin, plánovaný hodinový objem a způsob dalšího zpracování šťávy.",
+     "img": ""
+    },
+    {
+     "name": "ZBP 1100",
+     "text": "Pásový lis musí výkonově navazovat na mytí a drcení. Pro návrh linky připravte druhy surovin, plánovaný hodinový objem a způsob dalšího zpracování šťávy.",
+     "img": ""
+    }
+   ],
+   "params": [
+    [
+     "ZBP 400 — kapacita",
+     "400 kg/h"
+    ],
+    [
+     "ZBP 700 — kapacita",
+     "700 kg/h"
+    ],
+    [
+     "ZBP 1100 — kapacita",
+     "1 100 kg/h"
+    ],
+    [
+     "Příkon 400 / 700 / 1100",
+     "1,5 / 1,5 / 2 kW"
+    ],
+    [
+     "Hmotnost 400 / 700 / 1100",
+     "620 / 890 / 950 kg"
+    ],
+    [
+     "Regulace",
+     "Frekvenční měnič"
+    ],
+    [
+     "Výbava",
+     "Integrovaná nádrž a čerpadlo"
+    ],
+    [
+     "Přípojky",
+     "Elektřina, voda, stlačený vzduch"
+    ],
+    [
+     "Napájení ZBP 400",
+     "200–480 V, 50–60 Hz"
+    ],
+    [
+     "Napájení ZBP 700 / 1100",
+     "220–240 V, 50–60 Hz"
+    ]
+   ],
+   "param_note": "Údaje výrobce pro uvedené provedení. Výkon závisí na surovině a konfiguraci.",
+   "source": "https://www.zumex.com/en/industrial/squeezed/press-band-zbp/",
+   "selection": "Pásový lis musí výkonově navazovat na mytí a drcení. Pro návrh linky připravte druhy surovin, plánovaný hodinový objem a způsob dalšího zpracování šťávy.",
+   "docs": [
+    [
+     "Oficiální produktová stránka",
+     "https://www.zumex.com/en/industrial/squeezed/press-band-zbp/"
+    ]
+   ],
+   "tech": [
+    [
+     "Vysoká výtěžnost",
+     "Plynulé lisování pro průmyslové linky."
+    ],
+    [
+     "Frekvenční měnič",
+     "Plynulá regulace rychlosti."
+    ],
+    [
+     "Integrované čerpadlo a nádrž",
+     "Součást každého modelu."
+    ]
+   ],
+   "colors": null,
+   "fruit": {
+    "icons": [
+     "ovoce/jablko.svg",
+     "ovoce/mrkev.svg"
+    ],
+    "text": "Pásové lisy ZBP plynule lisují ovoce a zeleninu na šťávy lisované za studena, s pasterizací i bez ní.",
+    "items": [
+     "Ovoce",
+     "Zelenina"
+    ],
+    "kits": [],
+    "note": ""
+   },
+   "dims": {
+    "groups": [
+     {
+      "name": "ZBP 400",
+      "rows": [
+       [
+        "Délka × výška × šířka",
+        "1 425 × 1 310 × 1 200 mm"
+       ],
+       [
+        "Hmotnost",
+        "620 kg"
+       ]
+      ]
+     },
+     {
+      "name": "ZBP 700",
+      "rows": [
+       [
+        "Délka × výška × šířka",
+        "2 200 × 1 310 × 1 150 mm"
+       ],
+       [
+        "Hmotnost",
+        "890 kg"
+       ]
+      ]
+     },
+     {
+      "name": "ZBP 1100",
+      "rows": [
+       [
+        "Délka × výška × šířka",
+        "2 200 × 1 330 × 1 200 mm"
+       ],
+       [
+        "Hmotnost",
+        "950 kg"
+       ]
+      ]
+     }
+    ],
+    "notes": [
+     "Údaje výrobce. Přesné rozměry pro vaši konfiguraci rádi ověříme."
+    ],
+    "drawing": null
+   }
+  },
+  {
+   "id": "zds",
+   "card": {
+    "id": "zds",
+    "category": "prumyslove",
+    "demand": "vyroba",
+    "business": "vyroba",
+    "search": "ZDS 500 / 1000 ZDS je pulper určený k oddělování a využití dužiny v průmyslovém zpracování ovoce. Uplatní se tam, kde je cílem příprava ovocné hmoty pro další technologický krok, nikoli přímý samoobslužný výdej nápoje.",
+    "overline": "Průmyslové",
+    "name": "ZDS",
+    "text": "ZDS je pulper určený k oddělování a využití dužiny v průmyslovém zpracování ovoce.",
+    "img": "14-0.webp",
+    "specs": [
+     [
+      "ZDS 500 — kapacita",
+      "500 kg/h"
+     ],
+     [
+      "ZDS 1000 — rozsah kapacity",
+      "1 000–5 000 kg/h"
+     ]
+    ]
+   },
+   "title": "ZDS | Zumex Česko",
+   "desc": "Profesionální odšťavňovače Zumex pro kavárny, hotely, retail i průmyslovou výrobu. Objevte celý svět čerstvé šťávy.",
+   "img": "14-0.webp",
+   "kategorie": "Průmyslové",
+   "name": "ZDS",
+   "claim": "Příprava, na které záleží.",
+   "perex": "Pasírovací stroje pro výrobu ovocné a zeleninové dužiny. Řada ZDS nabízí řešení pro různé výrobní kapacity a typy surovin.",
+   "metrics": [
+    [
+     "ZDS 500",
+     "Model"
+    ],
+    [
+     "ZDS 1000",
+     "Model"
+    ],
+    [
+     "Dužina a pyré",
+     "Zpracování"
+    ]
+   ],
+   "story": [
+    "ZDS je pulper určený k oddělování a využití dužiny v průmyslovém zpracování ovoce. Uplatní se tam, kde je cílem příprava ovocné hmoty pro další technologický krok, nikoli přímý samoobslužný výdej nápoje.",
+    "Menší ZDS 500 a výkonnější ZDS 1000 pokrývají rozdílné výrobní objemy. Konkrétní průchodnost závisí na typu produktu a zvoleném procesu; oba modely vyžadují elektrické připojení a podlahový odvod."
+   ],
+   "feats": [
+    "Oddělování a zpracování dužiny.",
+    "Pro ovocné a zeleninové produkty.",
+    "Konfigurace podle suroviny a požadované kapacity."
+   ],
+   "gallery": [
+    [
+     "g14-0.webp",
+     "ZDS — produktový detail"
+    ],
+    [
+     "g14-1.webp",
+     "ZDS — produktový detail"
+    ]
+   ],
+   "variants": [
+    {
+     "name": "ZDS 500",
+     "text": "K výběru modelu potřebujeme znát ovoce a požadovanou konzistenci výstupu. Navrhneme návaznost na lisování nebo další zpracování dužiny.",
+     "img": ""
+    },
+    {
+     "name": "ZDS 1000",
+     "text": "K výběru modelu potřebujeme znát ovoce a požadovanou konzistenci výstupu. Navrhneme návaznost na lisování nebo další zpracování dužiny.",
+     "img": ""
+    }
+   ],
+   "params": [
+    [
+     "ZDS 500 — kapacita",
+     "500 kg/h"
+    ],
+    [
+     "ZDS 1000 — rozsah kapacity",
+     "1 000–5 000 kg/h"
+    ],
+    [
+     "Příkon ZDS 500",
+     "2,2 kW"
+    ],
+    [
+     "Příkon ZDS 1000",
+     "5,5 kW"
+    ],
+    [
+     "Hmotnost ZDS 500",
+     "100 kg"
+    ],
+    [
+     "Výška výpusti",
+     "1 050 mm"
+    ],
+    [
+     "Napájení",
+     "200–480 V, 50–60 Hz"
+    ],
+    [
+     "Přípojky",
+     "Elektřina a podlahový odvod"
+    ],
+    [
+     "Hmotnost ZDS 1000",
+     "190 kg"
+    ]
+   ],
+   "param_note": "Údaje výrobce pro uvedené provedení. Výkon závisí na surovině a konfiguraci.",
+   "source": "https://www.zumex.com/en/industrial/pre-squeezed/depulper-zds/",
+   "selection": "K výběru modelu potřebujeme znát ovoce a požadovanou konzistenci výstupu. Navrhneme návaznost na lisování nebo další zpracování dužiny.",
+   "docs": [
+    [
+     "Oficiální produktová stránka",
+     "https://www.zumex.com/en/industrial/pre-squeezed/depulper-zds/"
+    ]
+   ],
+   "tech": [
+    [
+     "Lepší využití ovoce",
+     "Méně odpadu a efektivní příprava pro další kroky linky."
+    ],
+    [
+     "Robustní průmyslová konstrukce",
+     "Pro menší linky (ZDS 500) i velké provozy (ZDS 1000)."
+    ]
+   ],
+   "colors": null,
+   "fruit": {
+    "icons": [
+     "ovoce/pomeranc.svg",
+     "ovoce/stava.svg"
+    ],
+    "text": "Pasírky ZDS odstraní hrubou dužninu a dočistí šťávu pro další zpracování.",
+    "items": [
+     "Ovocná dřeň",
+     "Šťáva k rafinaci"
+    ],
+    "kits": [],
+    "note": ""
+   },
+   "dims": {
+    "groups": [
+     {
+      "name": "ZDS 500",
+      "rows": [
+       [
+        "Délka × výška × šířka",
+        "1 150 × 500 × 1 150 mm"
+       ],
+       [
+        "Hmotnost",
+        "100 kg"
+       ]
+      ]
+     },
+     {
+      "name": "ZDS 1000",
+      "rows": [
+       [
+        "Délka × výška × šířka",
+        "1 900 × 1 300 × 1 000 mm"
+       ],
+       [
+        "Hmotnost",
+        "190 kg"
+       ]
+      ]
+     }
+    ],
+    "notes": [
+     "Údaje výrobce. Přesné rozměry pro vaši konfiguraci rádi ověříme."
+    ],
+    "drawing": null
+   }
+  },
+  {
+   "id": "zws",
+   "card": {
+    "id": "zws",
+    "category": "prumyslove",
+    "demand": "vyroba",
+    "business": "vyroba",
+    "search": "ZWS 3000 / 6000 / 5000 Pro ZWS zajišťuje mytí ovoce a zeleniny před dalším průmyslovým zpracováním. Rotující buben s vnitřními kartáči a vodou pomáhá připravovat surovinu pro návaznou výrobní linku.",
+    "overline": "Průmyslové",
+    "name": "ZWS",
+    "text": "ZWS zajišťuje mytí ovoce a zeleniny před dalším průmyslovým zpracováním.",
+    "img": "15-0.webp",
+    "specs": [
+     [
+      "Technologie",
+      "Rotující buben a vnitřní kartáče"
+     ],
+     [
+      "Materiál",
+      "Nerezová ocel"
+     ]
+    ]
+   },
+   "title": "ZWS | Zumex Česko",
+   "desc": "Profesionální odšťavňovače Zumex pro kavárny, hotely, retail i průmyslovou výrobu. Objevte celý svět čerstvé šťávy.",
+   "img": "15-0.webp",
+   "kategorie": "Průmyslové",
+   "name": "ZWS",
+   "claim": "Čistý začátek výrobní linky.",
+   "perex": "Průmyslové myčky ovoce a zeleniny připravují suroviny pro následné zpracování. Výběr stroje se odvíjí od objemu výroby i vlastností plodů.",
+   "metrics": [
+    [
+     "ZWS 3000",
+     "Model"
+    ],
+    [
+     "ZWS 6000",
+     "Model"
+    ],
+    [
+     "ZWS 5000 Pro",
+     "Model"
+    ]
+   ],
+   "story": [
+    "ZWS zajišťuje mytí ovoce a zeleniny před dalším průmyslovým zpracováním. Rotující buben s vnitřními kartáči a vodou pomáhá připravovat surovinu pro návaznou výrobní linku.",
+    "Nerezové provedení je navrženo pro průběžný provoz. Otáčky jsou řízené frekvenčním měničem a výstup lze přizpůsobit návaznému zařízení. Řada zahrnuje několik výkonových konfigurací včetně Pro."
+   ],
+   "feats": [
+    "Mytí vstupních surovin.",
+    "Propojení s dalšími stupni výroby.",
+    "Řešení pro různé provozní kapacity."
+   ],
+   "gallery": [
+    [
+     "g15-0.webp",
+     "ZWS — produktový detail"
+    ],
+    [
+     "g15-1.webp",
+     "ZWS — produktový detail"
+    ]
+   ],
+   "variants": [
+    {
+     "name": "ZWS 3000",
+     "text": "Kapacitu, rozměry a výšku výstupu potvrdíme podle vybraného modelu. Pro návrh je důležitý typ suroviny, její znečištění a tempo dalšího zpracování.",
+     "img": ""
+    },
+    {
+     "name": "ZWS 6000",
+     "text": "Kapacitu, rozměry a výšku výstupu potvrdíme podle vybraného modelu. Pro návrh je důležitý typ suroviny, její znečištění a tempo dalšího zpracování.",
+     "img": ""
+    },
+    {
+     "name": "ZWS 5000 Pro",
+     "text": "Kapacitu, rozměry a výšku výstupu potvrdíme podle vybraného modelu. Pro návrh je důležitý typ suroviny, její znečištění a tempo dalšího zpracování.",
+     "img": ""
+    }
+   ],
+   "params": [
+    [
+     "Technologie",
+     "Rotující buben a vnitřní kartáče"
+    ],
+    [
+     "Materiál",
+     "Nerezová ocel"
+    ],
+    [
+     "Suroviny",
+     "Ovoce a zelenina"
+    ],
+    [
+     "Kapacita řady",
+     "Až 6 000 kg/h podle modelu"
+    ],
+    [
+     "Řízení otáček",
+     "Frekvenční měnič"
+    ],
+    [
+     "Přípojky",
+     "Elektřina, voda a odpad"
+    ],
+    [
+     "Výstup",
+     "Nastavitelný podle návaznosti linky"
+    ],
+    [
+     "Kapacita ZWS 3000",
+     "3 000 kg/h"
+    ],
+    [
+     "Příkon",
+     "0,75 kW | 1 HP (třífázový)"
+    ],
+    [
+     "Napájení",
+     "200–480 V, 50–60 Hz"
+    ],
+    [
+     "Rozměry",
+     "2 250 × 1 450 × 1 700 mm"
+    ],
+    [
+     "Hmotnost",
+     "265 kg"
+    ],
+    [
+     "Výška výsypu",
+     "800 / 850 mm"
+    ],
+    [
+     "ZWS 5000 Pro",
+     "Třídění, mytí a předsušení"
+    ]
+   ],
+   "param_note": "Údaje výrobce pro uvedené provedení. Výkon závisí na surovině a konfiguraci.",
+   "source": "https://www.zumex.com/en/industrial/pre-squeezed/washers/",
+   "selection": "Kapacitu, rozměry a výšku výstupu potvrdíme podle vybraného modelu. Pro návrh je důležitý typ suroviny, její znečištění a tempo dalšího zpracování.",
+   "docs": [
+    [
+     "Oficiální produktová stránka",
+     "https://www.zumex.com/en/industrial/pre-squeezed/washers/"
+    ]
+   ],
+   "tech": [
+    [
+     "Buben s kartáči",
+     "Vnitřní kartáče a lopatky šetrné k ovoci."
+    ],
+    [
+     "Motor s převodovkou",
+     "Otáčky řízené frekvenčním měničem."
+    ]
+   ],
+   "colors": null,
+   "fruit": {
+    "icons": [
+     "ovoce/pomeranc.svg",
+     "ovoce/jablko.svg",
+     "ovoce/mrkev.svg"
+    ],
+    "text": "Pračky ZWS umyjí ovoce a zeleninu v rotujícím bubnu s kartáči a lopatkami, které produkt nepoškodí.",
+    "items": [
+     "Citrusy",
+     "Ovoce",
+     "Zelenina"
+    ],
+    "kits": [],
+    "note": ""
+   },
+   "dims": {
+    "groups": [
+     {
+      "name": "ZWS 3000 / 6000",
+      "rows": [
+       [
+        "Rozměry",
+        "2 250 × 1 450 × 1 700 mm"
+       ],
+       [
+        "Hmotnost",
+        "265 kg"
+       ],
+       [
+        "Výška výsypu",
+        "800 / 850 mm"
+       ]
+      ]
+     }
+    ],
+    "notes": [
+     "Údaje výrobce. Přesné rozměry pro vaši konfiguraci rádi ověříme."
+    ],
+    "drawing": null
+   }
+  },
+  {
+   "id": "zwm",
+   "card": {
+    "id": "zwm",
+    "category": "prumyslove",
+    "demand": "vyroba",
+    "business": "vyroba",
+    "search": "ZWM 1500 / 3000 ZWM propojuje mytí, dopravu a drcení ovoce v jedné sestavě. Připravuje surovinu pro navazující lisování za studena a pomáhá zkrátit manipulaci mezi jednotlivými výrobními operacemi.",
+    "overline": "Průmyslové",
+    "name": "ZWM",
+    "text": "ZWM propojuje mytí, dopravu a drcení ovoce v jedné sestavě.",
+    "img": "16-0.webp",
+    "specs": [
+     [
+      "ZWM 1500 — kapacita",
+      "1 500–2 000 kg/h"
+     ],
+     [
+      "ZWM 3000 — kapacita",
+      "3 000 kg/h"
+     ]
+    ]
+   },
+   "title": "ZWM | Zumex Česko",
+   "desc": "Profesionální odšťavňovače Zumex pro kavárny, hotely, retail i průmyslovou výrobu. Objevte celý svět čerstvé šťávy.",
+   "img": "16-0.webp",
+   "kategorie": "Průmyslové",
+   "name": "ZWM",
+   "claim": "Od mytí k drcení.",
+   "perex": "Kombinované jednotky propojují mytí, transport a drcení ovoce před lisováním. Zjednodušují přípravu surovin v profesionální výrobě.",
+   "metrics": [
+    [
+     "ZWM 1500",
+     "Model"
+    ],
+    [
+     "ZWM 3000",
+     "Model"
+    ],
+    [
+     "3 kroky",
+     "Mytí, transport, drcení"
+    ]
+   ],
+   "story": [
+    "ZWM propojuje mytí, dopravu a drcení ovoce v jedné sestavě. Připravuje surovinu pro navazující lisování za studena a pomáhá zkrátit manipulaci mezi jednotlivými výrobními operacemi.",
+    "Nerezový systém s kartáči a mlýnem je dostupný ve velikostech ZWM 1500 a 3000. Volba závisí na výkonu lisu a požadovaném objemu zpracování. Instalace zahrnuje vodu, odpad, elektřinu a stlačený vzduch."
+   ],
+   "feats": [
+    "Kompaktní propojení přípravných operací.",
+    "Příprava surovin pro následné lisování.",
+    "Volba kapacity podle výrobní linky."
+   ],
+   "gallery": [
+    [
+     "g16-0.webp",
+     "ZWM — produktový detail"
+    ],
+    [
+     "g16-1.webp",
+     "ZWM — produktový detail"
+    ]
+   ],
+   "variants": [
+    {
+     "name": "ZWM 1500",
+     "text": "Výkon sestavy slaďte s lisem, aby se surovina před lisováním nehromadila. Před instalací ověříme dispozici prostoru a dostupnost přípojek.",
+     "img": ""
+    },
+    {
+     "name": "ZWM 3000",
+     "text": "Výkon sestavy slaďte s lisem, aby se surovina před lisováním nehromadila. Před instalací ověříme dispozici prostoru a dostupnost přípojek.",
+     "img": ""
+    }
+   ],
+   "params": [
+    [
+     "ZWM 1500 — kapacita",
+     "1 500–2 000 kg/h"
+    ],
+    [
+     "ZWM 3000 — kapacita",
+     "3 000 kg/h"
+    ],
+    [
+     "Příkon 1500 / 3000",
+     "4 / 5 kW"
+    ],
+    [
+     "Hmotnost 1500 / 3000",
+     "290 / 360 kg"
+    ],
+    [
+     "ZWM 1500 — rozměry dle výrobce",
+     "3 400 × 2 220 × 800 mm"
+    ],
+    [
+     "ZWM 3000 — rozměry dle výrobce",
+     "3 950 × 2 200 × 800 mm"
+    ],
+    [
+     "Napájení",
+     "200–480 V, 50–60 Hz"
+    ],
+    [
+     "Materiál",
+     "Nerezová ocel"
+    ],
+    [
+     "Nádrž na vodu",
+     "440 l"
+    ],
+    [
+     "Přípojky",
+     "Elektřina, voda, odpad a stlačený vzduch"
+    ]
+   ],
+   "param_note": "Údaje výrobce pro uvedené provedení. Výkon závisí na surovině a konfiguraci.",
+   "source": "https://www.zumex.com/en/industrial/pre-squeezed/washing-crushers/",
+   "selection": "Výkon sestavy slaďte s lisem, aby se surovina před lisováním nehromadila. Před instalací ověříme dispozici prostoru a dostupnost přípojek.",
+   "docs": [
+    [
+     "Oficiální produktová stránka",
+     "https://www.zumex.com/en/industrial/pre-squeezed/washing-crushers/"
+    ]
+   ],
+   "tech": [
+    [
+     "4 protiběžné kartáče",
+     "Důkladné mytí v nepřetržitém provozu."
+    ],
+    [
+     "Kladivový mlýn",
+     "Masivní drtič připraví ovoce pro lis."
+    ],
+    [
+     "Potravinářský pás",
+     "Doprava z polypropylenu vhodného pro potraviny."
+    ]
+   ],
+   "colors": null,
+   "fruit": {
+    "icons": [
+     "ovoce/jablko.svg",
+     "ovoce/ananas.svg",
+     "ovoce/mrkev.svg"
+    ],
+    "text": "ZWM umyje, dopraví a podrtí všechny druhy ovoce a připraví je na lisování za studena.",
+    "items": [
+     "Jablka a tvrdé ovoce",
+     "Ananas",
+     "Zelenina"
+    ],
+    "kits": [],
+    "note": ""
+   },
+   "dims": {
+    "groups": [
+     {
+      "name": "ZWM 1500",
+      "rows": [
+       [
+        "Rozměry",
+        "3 400 × 2 220 × 800 mm"
+       ],
+       [
+        "Hmotnost",
+        "290 kg"
+       ]
+      ]
+     },
+     {
+      "name": "ZWM 3000",
+      "rows": [
+       [
+        "Rozměry",
+        "3 950 × 2 200 × 800 mm"
+       ],
+       [
+        "Hmotnost",
+        "360 kg"
+       ]
+      ]
+     }
+    ],
+    "notes": [
+     "Údaje výrobce. Přesné rozměry pro vaši konfiguraci rádi ověříme."
+    ],
+    "drawing": null
+   }
+  },
+  {
+   "id": "zt",
+   "card": {
+    "id": "zt",
+    "category": "prumyslove",
+    "demand": "vyroba",
+    "business": "vyroba",
+    "search": "ZT buffer tank ZT je vyrovnávací nádrž, která vytváří mezizásobu mezi jednotlivými kroky výrobní linky. Pomáhá oddělit kolísající přísun šťávy od navazujícího plnění nebo dalšího zpracování.",
+    "overline": "Průmyslové",
+    "name": "ZT",
+    "text": "ZT je vyrovnávací nádrž, která vytváří mezizásobu mezi jednotlivými kroky výrobní linky.",
+    "img": "17-0.webp",
+    "specs": [
+     [
+      "Objemové varianty",
+      "750 / 1 000 / 1 250 l"
+     ],
+     [
+      "Materiál",
+      "Nerezová ocel"
+     ]
+    ]
+   },
+   "title": "ZT | Zumex Česko",
+   "desc": "Profesionální odšťavňovače Zumex pro kavárny, hotely, retail i průmyslovou výrobu. Objevte celý svět čerstvé šťávy.",
+   "img": "17-0.webp",
+   "kategorie": "Průmyslové",
+   "name": "ZT",
+   "claim": "Mezikrok pro plynulý provoz.",
+   "perex": "Nerezové vyrovnávací nádrže pro návaznost mezi výrobními operacemi. Slouží jako zásobní objem v procesu zpracování šťáv.",
+   "metrics": [
+    [
+     "750 l",
+     "Varianta"
+    ],
+    [
+     "1 000 l",
+     "Varianta"
+    ],
+    [
+     "1 250 l",
+     "Varianta"
+    ]
+   ],
+   "story": [
+    "ZT je vyrovnávací nádrž, která vytváří mezizásobu mezi jednotlivými kroky výrobní linky. Pomáhá oddělit kolísající přísun šťávy od navazujícího plnění nebo dalšího zpracování.",
+    "Nerezová konstrukce a šetrné míchání podporují průběžný provoz. Nádrž je kompatibilní s CIP čištěním; podle potřeb procesu lze řešit také izolační nebo chladicí plášť."
+   ],
+   "feats": [
+    "Nerezová konstrukce.",
+    "Kompatibilita s čištěním CIP.",
+    "Tři objemy pro různé kapacity výroby."
+   ],
+   "gallery": [
+    [
+     "g17-0.webp",
+     "ZT — produktový detail"
+    ],
+    [
+     "g17-1.webp",
+     "ZT — produktový detail"
+    ]
+   ],
+   "variants": [
+    {
+     "name": "ZT 750 l",
+     "text": "Objem zvolte podle rozdílu výkonů mezi lisem a plničkou. Teplotní režim, připojení a způsob sanitace je vhodné vyřešit jako součást celého technologického návrhu.",
+     "img": ""
+    },
+    {
+     "name": "ZT 1000 l",
+     "text": "Objem zvolte podle rozdílu výkonů mezi lisem a plničkou. Teplotní režim, připojení a způsob sanitace je vhodné vyřešit jako součást celého technologického návrhu.",
+     "img": ""
+    },
+    {
+     "name": "ZT 1250 l",
+     "text": "Objem zvolte podle rozdílu výkonů mezi lisem a plničkou. Teplotní režim, připojení a způsob sanitace je vhodné vyřešit jako součást celého technologického návrhu.",
+     "img": ""
+    }
+   ],
+   "params": [
+    [
+     "Objemové varianty",
+     "750 / 1 000 / 1 250 l"
+    ],
+    [
+     "Materiál",
+     "Nerezová ocel"
+    ],
+    [
+     "Míchání",
+     "Pomalé, šetrné k produktu"
+    ],
+    [
+     "Čištění",
+     "Kompatibilní s CIP"
+    ],
+    [
+     "Volitelná úprava",
+     "Izolace / chladicí plášť"
+    ],
+    [
+     "Příkon uvedený výrobcem",
+     "2,1 kW"
+    ],
+    [
+     "Hmotnosti dle objemu",
+     "140 / 150 / 180 kg"
+    ],
+    [
+     "Napájení",
+     "200–480 V, 50–60 Hz"
+    ],
+    [
+     "Rozměry",
+     "1 450 × 1 200 × 1 200 mm"
+    ],
+    [
+     "Přípojky",
+     "Elektřina"
+    ]
+   ],
+   "param_note": "Údaje výrobce pro uvedené provedení. Výkon závisí na surovině a konfiguraci.",
+   "source": "https://www.zumex.com/en/industrial/post-squeezed/buffer-tank/",
+   "selection": "Objem zvolte podle rozdílu výkonů mezi lisem a plničkou. Teplotní režim, připojení a způsob sanitace je vhodné vyřešit jako součást celého technologického návrhu.",
+   "docs": [
+    [
+     "Oficiální produktová stránka",
+     "https://www.zumex.com/en/industrial/post-squeezed/buffer-tank/"
+    ]
+   ],
+   "tech": [
+    [
+     "Vyrovnávací nádrž linky",
+     "Průběžné skladování a míchání šťávy."
+    ],
+    [
+     "Šetrné míchání",
+     "Pomalá rychlost chrání kvalitu šťávy."
+    ],
+    [
+     "CIP kompatibilní",
+     "Čištění bez demontáže."
+    ]
+   ],
+   "colors": null,
+   "fruit": null,
+   "dims": {
+    "groups": [
+     {
+      "name": "ZT 750 / 1000 / 1250 l",
+      "rows": [
+       [
+        "Rozměry",
+        "1 450 × 1 200 × 1 200 mm"
+       ],
+       [
+        "Hmotnost",
+        "140 / 150 / 180 kg podle objemu"
+       ]
+      ]
+     }
+    ],
+    "notes": [
+     "Údaje výrobce. Přesné rozměry pro vaši konfiguraci rádi ověříme."
+    ],
+    "drawing": null
+   }
+  },
+  {
+   "id": "zf-zbib",
+   "card": {
+    "id": "zf-zbib",
+    "category": "prumyslove",
+    "demand": "vyroba",
+    "business": "vyroba",
+    "search": "ZF / ZBIB filling and bottling ZF6 ZF6 Pro ZBIB ZFA3 Řada ZF / ZBIB pokrývá plnění šťáv do lahví i obalů Bag-in-Box. Umožňuje navázat na lisování a meziskladování tak, aby výsledný produkt odpovídal plánovanému způsobu prodeje.",
+    "overline": "Průmyslové",
+    "name": "ZF / ZBIB",
+    "text": "Řada ZF / ZBIB pokrývá plnění šťáv do lahví i obalů Bag-in-Box.",
+    "img": "18-0.webp",
+    "specs": [
+     [
+      "ZF6 Pro — kapacita",
+      "600 l/h"
+     ],
+     [
+      "ZF6 Pro — příkon / hmotnost",
+      "0,8 kW / 60 kg"
+     ]
+    ]
+   },
+   "title": "ZF / ZBIB | Zumex Česko",
+   "desc": "Profesionální odšťavňovače Zumex pro kavárny, hotely, retail i průmyslovou výrobu. Objevte celý svět čerstvé šťávy.",
+   "img": "18-0.webp",
+   "kategorie": "Průmyslové",
+   "name": "ZF / ZBIB",
+   "claim": "Připraveno k plnění.",
+   "perex": "Plnicí a stáčecí technologie pro hotovou šťávu. Řada zahrnuje plnění lahví i systém Bag-in-Box; konkrétní stroj se vybírá podle balení a výkonu.",
+   "metrics": [
+    [
+     "600 l/h",
+     "ZF6 Pro"
+    ],
+    [
+     "4 320 l/h",
+     "ZBIB"
+    ],
+    [
+     "1 200 l/h",
+     "ZFA3"
+    ]
+   ],
+   "story": [
+    "Řada ZF / ZBIB pokrývá plnění šťáv do lahví i obalů Bag-in-Box. Umožňuje navázat na lisování a meziskladování tak, aby výsledný produkt odpovídal plánovanému způsobu prodeje.",
+    "ZF6 Pro je řešení pro lahvování, ZBIB pro poloautomatické plnění vaků a ZFA3 pro automatizovaný výdej přes tři tlakové trysky. Kapacitu je nutné posuzovat společně s objemem obalu a celým pracovním cyklem."
+   ],
+   "feats": [
+    "Modely ZF6, ZF6 Pro, ZBIB a ZFA3.",
+    "ZBIB pro vaky o objemu 1,5 až 20 litrů.",
+    "ZFA3 se třemi tlakovými plnicími tryskami."
+   ],
+   "gallery": [
+    [
+     "g18-0.webp",
+     "ZF / ZBIB — produktový detail"
+    ],
+    [
+     "g18-1.webp",
+     "ZF / ZBIB — produktový detail"
+    ]
+   ],
+   "variants": [
+    {
+     "name": "ZF6",
+     "text": "Při poptávce uveďte typ obalu, objem, uzávěr a cílový počet kusů za hodinu. Parametry základního ZF6 potvrdíme samostatně; údaje Pro na něj nelze automaticky přenášet.",
+     "img": ""
+    },
+    {
+     "name": "ZF6 Pro",
+     "text": "Při poptávce uveďte typ obalu, objem, uzávěr a cílový počet kusů za hodinu. Parametry základního ZF6 potvrdíme samostatně; údaje Pro na něj nelze automaticky přenášet.",
+     "img": ""
+    },
+    {
+     "name": "ZBIB",
+     "text": "Při poptávce uveďte typ obalu, objem, uzávěr a cílový počet kusů za hodinu. Parametry základního ZF6 potvrdíme samostatně; údaje Pro na něj nelze automaticky přenášet.",
+     "img": ""
+    },
+    {
+     "name": "ZFA3",
+     "text": "Při poptávce uveďte typ obalu, objem, uzávěr a cílový počet kusů za hodinu. Parametry základního ZF6 potvrdíme samostatně; údaje Pro na něj nelze automaticky přenášet.",
+     "img": ""
+    }
+   ],
+   "params": [
+    [
+     "ZF6 Pro — kapacita",
+     "600 l/h"
+    ],
+    [
+     "ZF6 Pro — příkon / hmotnost",
+     "0,8 kW / 60 kg"
+    ],
+    [
+     "ZBIB — kapacita",
+     "Až 4 320 l/h"
+    ],
+    [
+     "ZBIB — objemy vaků",
+     "1,5–20 l"
+    ],
+    [
+     "ZBIB — příkon / hmotnost",
+     "0,5 kW / 110 kg"
+    ],
+    [
+     "ZFA3 — kapacita",
+     "1 200 l/h"
+    ],
+    [
+     "ZFA3 — plnicí trysky",
+     "3 tlakové"
+    ],
+    [
+     "ZFA3 — příkon / hmotnost",
+     "0,75 kW / 600 kg"
+    ],
+    [
+     "ZF6 Pro: nádrž",
+     "Až 100 l"
+    ],
+    [
+     "ZBIB: napájení",
+     "100–240 V, 50–60 Hz"
+    ],
+    [
+     "ZFA3: výška podávání",
+     "870 mm"
+    ],
+    [
+     "ZF6 Pro / ZFA3: napájení",
+     "200–480 V, 50–60 Hz"
+    ]
+   ],
+   "param_note": "Údaje výrobce pro uvedené provedení. Výkon závisí na surovině a konfiguraci.",
+   "source": "https://www.zumex.com/en/industrial/post-squeezed/fillers-bottlers/",
+   "selection": "Při poptávce uveďte typ obalu, objem, uzávěr a cílový počet kusů za hodinu. Parametry základního ZF6 potvrdíme samostatně; údaje Pro na něj nelze automaticky přenášet.",
+   "docs": [
+    [
+     "Oficiální produktová stránka",
+     "https://www.zumex.com/en/industrial/post-squeezed/fillers-bottlers/"
+    ]
+   ],
+   "tech": [
+    [
+     "ZBIB, Bag-in-Box",
+     "Poloautomatické plnění vaků 1,5–20 l, široký výběr kohoutků a ventilů, CIP čištění."
+    ],
+    [
+     "ZFA3",
+     "Recepturový systém a integrovaná automatická etiketovačka, různé velikosti lahví."
+    ],
+    [
+     "ZF6 Pro",
+     "Celonerezová plnička do 600 l/h."
+    ]
+   ],
+   "colors": null,
+   "fruit": null,
+   "dims": {
+    "groups": [
+     {
+      "name": "ZF6 Pro",
+      "rows": [
+       [
+        "Rozměry",
+        "680 × 1 715 × 590 mm"
+       ],
+       [
+        "Hmotnost",
+        "60 kg"
+       ]
+      ]
+     },
+     {
+      "name": "ZBIB",
+      "rows": [
+       [
+        "Rozměry",
+        "800 × 1 150 × 1 750 mm"
+       ],
+       [
+        "Hmotnost",
+        "110 kg"
+       ]
+      ]
+     },
+     {
+      "name": "ZFA3",
+      "rows": [
+       [
+        "Rozměry",
+        "4 000 × 2 255 × 1 885 mm"
+       ],
+       [
+        "Hmotnost",
+        "600 kg"
+       ]
+      ]
+     }
+    ],
+    "notes": [
+     "Údaje výrobce. Přesné rozměry pro vaši konfiguraci rádi ověříme."
+    ],
+    "drawing": null
+   }
+  },
+  {
+   "id": "zcip-zs-cip",
+   "card": {
+    "id": "zcip-zs-cip",
+    "category": "prumyslove",
+    "demand": "vyroba",
+    "business": "vyroba",
+    "search": "ZCIP / ZS CIP ZS CIP je mobilní čisticí systém pro sanitaci kompatibilních zařízení bez jejich úplného rozebrání. Je určen jako součást průmyslové linky, kde je potřeba opakovatelný čisticí postup a cirkulace čisticího média.",
+    "overline": "Průmyslové",
+    "name": "ZCIP / ZS CIP",
+    "text": "ZS CIP je mobilní čisticí systém pro sanitaci kompatibilních zařízení bez jejich úplného rozebrání.",
+    "img": "19-0.webp",
+    "specs": [
+     [
+      "Objem nádrže",
+      "250 l"
+     ],
+     [
+      "Recirkulační průtok",
+      "10 000 l/h"
+     ]
+    ]
+   },
+   "title": "ZCIP / ZS CIP | Zumex Česko",
+   "desc": "Profesionální odšťavňovače Zumex pro kavárny, hotely, retail i průmyslovou výrobu. Objevte celý svět čerstvé šťávy.",
+   "img": "19-0.webp",
+   "kategorie": "Průmyslové",
+   "name": "ZCIP / ZS CIP",
+   "claim": "Hygiena jako součást procesu.",
+   "perex": "Mobilní čisticí systémy pro průmyslové výrobní zařízení. Recirkulace čisticího média podporuje řízenou sanitaci výrobní linky.",
+   "metrics": [
+    [
+     "250 l",
+     "Nádrž"
+    ],
+    [
+     "10 000 l/h",
+     "Recirkulace"
+    ],
+    [
+     "3 bar",
+     "Tlak"
+    ]
+   ],
+   "story": [
+    "ZS CIP je mobilní čisticí systém pro sanitaci kompatibilních zařízení bez jejich úplného rozebrání. Je určen jako součást průmyslové linky, kde je potřeba opakovatelný čisticí postup a cirkulace čisticího média.",
+    "Nerezová jednotka na kolech se snadno přesouvá mezi vhodnými zařízeními. Nádrž o objemu 250 litrů a recirkulační okruh tvoří základ čištění na místě; postup se nastavuje podle konkrétní technologie a používaných přípravků."
+   ],
+   "feats": [
+    "Mobilní provedení.",
+    "Čištění vnitřních okruhů technologie.",
+    "Začlenění do hygienického režimu provozu."
+   ],
+   "gallery": [
+    [
+     "g19-0.webp",
+     "ZCIP / ZS CIP — produktový detail"
+    ],
+    [
+     "g19-1.webp",
+     "ZCIP / ZS CIP — produktový detail"
+    ]
+   ],
+   "variants": [
+    {
+     "name": "ZCIP",
+     "text": "Kompatibilitu okruhu, čisticí přípravky a pracovní postup ověřte s dodavatelem linky. CIP nenahrazuje kontrolu hygieny ani údržbu předepsanou pro jednotlivá zařízení.",
+     "img": ""
+    },
+    {
+     "name": "ZS CIP",
+     "text": "Kompatibilitu okruhu, čisticí přípravky a pracovní postup ověřte s dodavatelem linky. CIP nenahrazuje kontrolu hygieny ani údržbu předepsanou pro jednotlivá zařízení.",
+     "img": ""
+    }
+   ],
+   "params": [
+    [
+     "Objem nádrže",
+     "250 l"
+    ],
+    [
+     "Recirkulační průtok",
+     "10 000 l/h"
+    ],
+    [
+     "Tlak",
+     "3 bar"
+    ],
+    [
+     "Příkon",
+     "1,1 kW"
+    ],
+    [
+     "Rozměry dle výrobce",
+     "1 430 × 1 200 × 1 200 mm"
+    ],
+    [
+     "Hmotnost",
+     "70 kg"
+    ],
+    [
+     "Napájení",
+     "200–480 V, 50–60 Hz"
+    ],
+    [
+     "Konstrukce",
+     "Mobilní, nerezová"
+    ],
+    [
+     "Přípojky",
+     "Elektřina"
+    ]
+   ],
+   "param_note": "Údaje výrobce pro uvedené provedení. Výkon závisí na surovině a konfiguraci.",
+   "source": "https://www.zumex.com/en/industrial/post-squeezed/cleaners/",
+   "selection": "Kompatibilitu okruhu, čisticí přípravky a pracovní postup ověřte s dodavatelem linky. CIP nenahrazuje kontrolu hygieny ani údržbu předepsanou pro jednotlivá zařízení.",
+   "docs": [
+    [
+     "Oficiální produktová stránka",
+     "https://www.zumex.com/en/industrial/post-squeezed/cleaners/"
+    ]
+   ],
+   "tech": [
+    [
+     "Čištění bez demontáže",
+     "Automatické a efektivní CIP čištění zařízení linky."
+    ],
+    [
+     "Mobilní provedení",
+     "Kompaktní nerezový systém na kolečkách."
+    ],
+    [
+     "Úspora energie",
+     "Snadné ovládání, čištění i údržba."
+    ]
+   ],
+   "colors": null,
+   "fruit": null,
+   "dims": {
+    "groups": [
+     {
+      "name": "ZS CIP",
+      "rows": [
+       [
+        "Rozměry",
+        "1 430 × 1 200 × 1 200 mm"
+       ],
+       [
+        "Hmotnost",
+        "70 kg"
+       ]
+      ]
+     }
+    ],
+    "notes": [
+     "Údaje výrobce. Přesné rozměry pro vaši konfiguraci rádi ověříme."
+    ],
+    "drawing": null
+   }
+  }
+ ],
+ "filters": {
+  "category": [
+   [
+    "citrusy",
+    "Lisy na citrusy"
+   ],
+   [
+    "odstavnovace",
+    "Odšťavňovače na ovoce a zeleninu"
+   ],
+   [
+    "ananas",
+    "Kráječ a loupač ananasu"
+   ],
+   [
+    "samocistici",
+    "Samočisticí lisy"
+   ],
+   [
+    "cold-press",
+    "Cold Press"
+   ],
+   [
+    "prumyslove",
+    "Průmyslové technologie"
+   ]
+  ],
+  "demand": [
+   [
+    "mirna",
+    "Mírný odběr"
+   ],
+   [
+    "stredni",
+    "Střední odběr"
+   ],
+   [
+    "vysoka",
+    "Vysoký odběr"
+   ],
+   [
+    "velmi-vysoka",
+    "Velmi vysoký odběr"
+   ],
+   [
+    "vyroba",
+    "Průmyslová výroba"
+   ]
+  ],
+  "business": [
+   [
+    "kavarny",
+    "Kavárny a pekárny"
+   ],
+   [
+    "bary",
+    "Bary a fresh bary"
+   ],
+   [
+    "hotely",
+    "Hotely a gastronomie"
+   ],
+   [
+    "obchody",
+    "Obchody a supermarkety"
+   ],
+   [
+    "vyroba",
+    "Výrobní provozy"
+   ]
+  ]
+ }
+}

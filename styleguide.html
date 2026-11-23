@@ -1,0 +1,161 @@
+<!doctype html>
+<html lang="cs" class="no-js">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Styleguide | Zumex Česko</title>
+<meta name="description" content="Vizuální systém webu Zumex Česko: barvy, typografie, tlačítka a komponenty.">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Styleguide | Zumex Česko">
+<meta property="og:description" content="Vizuální systém webu Zumex Česko: barvy, typografie, tlačítka a komponenty.">
+<meta property="og:image" content="assets/hero-soul-sunset.webp">
+<meta name="theme-color" content="#ffffff">
+<link rel="icon" href="favicon.svg">
+<link rel="preload" href="assets/fonts/manrope-700.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" href="assets/css/tokens.css?v=5">
+<link rel="stylesheet" href="assets/css/components.css?v=5">
+<script>document.documentElement.classList.replace('no-js','js')</script>
+</head>
+<body class="">
+<a class="skip-link" href="#obsah">Přeskočit na obsah</a>
+<header class="site-header">
+ <nav class="nav" aria-label="Hlavní navigace">
+  <a class="nav-logo" href="index.html"><img src="assets/logo.webp" alt="Zumex Česko" width="480" height="183"></a>
+  <div class="nav-menu" id="menu"><a href="produkty/index.html">Produkty</a><a href="index.html#technologie">Technologie</a><a href="index.html#servis">Servis a záruka</a><a href="kontakt/index.html">Kontakt</a>
+   <div class="nav-mobile-cta"><a class="btn btn-primary" href="kontakt/index.html">Nezávazná poptávka <svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M5 12h14M13 6l6 6-6 6"/></svg></a></div>
+  </div>
+  <div class="nav-actions">
+   <a class="icon-btn nav-search" href="produkty/index.html#hledat" aria-label="Hledat produkt"><svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg></a>
+   <a class="btn btn-primary btn-sm" href="kontakt/index.html">Nezávazná poptávka</a>
+   <button class="icon-btn nav-toggle" type="button" aria-expanded="false" aria-controls="menu" aria-label="Otevřít menu"><svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M4 7h16M4 12h16M4 17h16"/></svg></button>
+  </div>
+ </nav>
+</header>
+<main id="obsah">
+<section class="section"><div class="container">
+ <h1>Styleguide Zumex Česko</h1>
+ <p class="lead" style="margin-top:16px">Všechny styly a komponenty webu na jednom místě. Stránky používají jen tokeny z <code>tokens.css</code> a komponenty z <code>components.css</code>.</p>
+
+ <div class="sg-block" style="margin-top:48px"><h2>Barvy</h2><div class="grid grid-4"><div class="sg-swatch"><div style="background:var(--bg)"></div><p><b>Pozadí</b><br><code>--bg</code> #ffffff</p></div><div class="sg-swatch"><div style="background:var(--surface)"></div><p><b>Povrch</b><br><code>--surface</code> #f4f3f1</p></div><div class="sg-swatch"><div style="background:var(--surface-2)"></div><p><b>Povrch hover</b><br><code>--surface-2</code> #ebe9e5</p></div><div class="sg-swatch"><div style="background:var(--ink)"></div><p><b>Text</b><br><code>--ink</code> #111111</p></div><div class="sg-swatch"><div style="background:var(--muted)"></div><p><b>Ztlumený text</b><br><code>--muted</code> #5e5d59</p></div><div class="sg-swatch"><div style="background:var(--line)"></div><p><b>Linky</b><br><code>--line</code> #e3e1dc</p></div><div class="sg-swatch"><div style="background:var(--accent)"></div><p><b>Akcent Zumex</b><br><code>--accent</code> #ff6a13</p></div><div class="sg-swatch"><div style="background:var(--accent-soft)"></div><p><b>Akcent jemný</b><br><code>--accent-soft</code> #fff1e7</p></div><div class="sg-swatch"><div style="background:var(--citron)"></div><p><b>Citron (plochy)</b><br><code>--citron</code> #d9e4a2</p></div><div class="sg-swatch"><div style="background:var(--peach)"></div><p><b>Peach (plochy, ikony)</b><br><code>--peach</code> #ffdccf</p></div><div class="sg-swatch"><div style="background:var(--dark)"></div><p><b>Tmavá plocha</b><br><code>--dark</code> #131313</p></div><div class="sg-swatch"><div style="background:var(--success)"></div><p><b>Úspěch</b><br><code>--success</code> #2f8f4e</p></div><div class="sg-swatch"><div style="background:var(--error)"></div><p><b>Chyba</b><br><code>--error</code> #c8312b</p></div></div>
+  <p class="small muted" style="margin-top:16px">Akcent je oranžová Zumex na tlačítka, zvýraznění a jeden CTA pruh. Citron a peach jsou doplňkové plochy pro karty a sekce, nikdy pro text ani tlačítka.</p></div>
+
+ <div class="sg-block"><h2>Typografie</h2><div class="sg-type"><div><code>H1<br>Manrope ExtraBold 800, 64 / 38 px, řádkování 1,06</code><h1>Profesionální lisy na citrusy</h1></div><div><code>H2<br>Manrope ExtraBold 800, 46 / 30 px, 1,12</code><h2>Nejoblíbenější lisy na citrusy</h2></div><div><code>H3<br>Manrope ExtraBold 800, 24 / 20 px, 1,3</code><h3>Kavárny, bary a hotely</h3></div><div><code>H4<br>Manrope ExtraBold 800, 18 px, 1,4</code><h4>Technické parametry</h4></div><div><code>Perex<br>Manrope 400, 19 / 17 px, 1,6</code><p class="lead">Najdeme správný stroj pro vaši kavárnu, hotel i obchod.</p></div><div><code>Text<br>Manrope 400, 16 px, 1,65</code><p>Soul Series 2 přináší automatické lisování citrusů i na bar, kde je každý centimetr důležitý.</p></div><div><code>Malý text<br>Manrope 400, 14 px</code><p class="small">Údaje výrobce pro uvedené provedení.</p></div><div><code>Popisek<br>Manrope 400, 12,5 px, ztlumená</code><p class="caption">Servisní mobil</p></div><div><code>Odkaz<br>Manrope 700, podtržení v akcentu</code><a class="link" href="#">Zobrazit na mapě</a></div><div><code>Citát<br>Manrope 600, 26 / 20 px</code><blockquote class="quote">Šťáva nepřijde do kontaktu se slupkou, proto zůstává sladká.</blockquote></div></div></div>
+
+ <div class="sg-block"><h2>Mezery, zaoblení a stíny</h2>
+  <div class="sg-row"><div style="text-align:center"><div style="width:4px;height:4px;background:var(--accent-soft);border-radius:4px;margin:0 auto 6px"></div><span class="caption">4</span></div><div style="text-align:center"><div style="width:8px;height:8px;background:var(--accent-soft);border-radius:4px;margin:0 auto 6px"></div><span class="caption">8</span></div><div style="text-align:center"><div style="width:12px;height:12px;background:var(--accent-soft);border-radius:4px;margin:0 auto 6px"></div><span class="caption">12</span></div><div style="text-align:center"><div style="width:16px;height:16px;background:var(--accent-soft);border-radius:4px;margin:0 auto 6px"></div><span class="caption">16</span></div><div style="text-align:center"><div style="width:24px;height:24px;background:var(--accent-soft);border-radius:4px;margin:0 auto 6px"></div><span class="caption">24</span></div><div style="text-align:center"><div style="width:32px;height:32px;background:var(--accent-soft);border-radius:4px;margin:0 auto 6px"></div><span class="caption">32</span></div><div style="text-align:center"><div style="width:48px;height:48px;background:var(--accent-soft);border-radius:4px;margin:0 auto 6px"></div><span class="caption">48</span></div><div style="text-align:center"><div style="width:64px;height:64px;background:var(--accent-soft);border-radius:4px;margin:0 auto 6px"></div><span class="caption">64</span></div><div style="text-align:center"><div style="width:96px;height:96px;background:var(--accent-soft);border-radius:4px;margin:0 auto 6px"></div><span class="caption">96</span></div></div>
+  <div class="sg-row" style="margin-top:24px"><div style="width:110px;height:80px;background:var(--surface);border-radius:var(--r-sm);display:grid;place-items:center" class="caption">--r-sm</div><div style="width:110px;height:80px;background:var(--surface);border-radius:var(--r-md);display:grid;place-items:center" class="caption">--r-md</div><div style="width:110px;height:80px;background:var(--surface);border-radius:var(--r-lg);display:grid;place-items:center" class="caption">--r-lg</div><div style="width:110px;height:80px;background:var(--surface);border-radius:var(--r-xl);display:grid;place-items:center" class="caption">--r-xl</div><div style="width:110px;height:80px;background:var(--surface);border-radius:var(--r-pill);display:grid;place-items:center" class="caption">--r-pill</div></div>
+  <div class="sg-row" style="margin-top:24px"><div style="width:160px;height:90px;background:#fff;border-radius:var(--r-md);box-shadow:var(--shadow-sm);display:grid;place-items:center" class="caption">--shadow-sm</div><div style="width:160px;height:90px;background:#fff;border-radius:var(--r-md);box-shadow:var(--shadow-md);display:grid;place-items:center" class="caption">--shadow-md</div><div style="width:160px;height:90px;background:#fff;border-radius:var(--r-md);box-shadow:var(--shadow-lg);display:grid;place-items:center" class="caption">--shadow-lg</div></div></div>
+
+ <div class="sg-block"><h2>Tlačítka</h2>
+  <div class="sg-row"><a class="btn btn-accent" href="#">Vybrat automatický lis <svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M5 12h14M13 6l6 6-6 6"/></svg></a><a class="btn btn-primary" href="#">Nezávazná poptávka</a><a class="btn btn-secondary" href="#">Poradit s výběrem</a><a class="btn btn-text" href="#">Detail a parametry <svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M5 12h14M13 6l6 6-6 6"/></svg></a></div>
+  <div class="sg-row" style="margin-top:16px"><a class="btn btn-primary btn-sm" href="#">Malé</a><a class="btn btn-primary" href="#">Střední</a><a class="btn btn-primary btn-lg" href="#">Velké</a><a class="btn btn-primary is-disabled" href="#">Neaktivní</a><span class="icon-btn"><svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg></span></div>
+  <div class="sg-row" style="margin-top:16px;background:var(--dark);padding:20px;border-radius:var(--r-lg)"><a class="btn btn-light" href="#">Na tmavé ploše</a><a class="btn btn-ghost-dark" href="#">Obrysové na tmavé</a></div></div>
+
+ <div class="sg-block"><h2>Navigace</h2><p class="small muted" style="margin-bottom:16px">Plovoucí zaoblená lišta, na mobilu hamburger s otevřeným panelem.</p>
+  <div style="background:var(--surface);padding:20px;border-radius:var(--r-lg)"><div class="nav" style="position:static">
+   <a class="nav-logo" href="#"><img src="assets/logo.webp" alt="Zumex" width="480" height="183"></a>
+   <div class="nav-menu" style="display:flex;position:static;box-shadow:none;border:0;flex-direction:row;padding:0;background:none"><a href="#" aria-current="page">Produkty</a><a href="#">Technologie</a><a href="#">Servis a záruka</a><a href="#">Kontakt</a></div>
+   <div class="nav-actions"><span class="icon-btn"><svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg></span><a class="btn btn-primary btn-sm" href="#">Nezávazná poptávka</a></div></div></div>
+  <div style="max-width:390px;margin-top:16px;background:var(--surface);padding:16px;border-radius:var(--r-lg)">
+   <div class="nav" style="padding:8px 8px 8px 18px"><a class="nav-logo" href="#"><img src="assets/logo.webp" alt="" style="height:28px"></a><span class="icon-btn" style="margin-left:auto"><svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M6 6l12 12M18 6 6 18"/></svg></span></div>
+   <div class="nav-menu is-open" style="position:static;display:flex;margin-top:10px;flex-direction:column;background:#fff;border:1px solid var(--line);border-radius:var(--r-lg);padding:12px"><a href="#">Produkty</a><a href="#">Technologie</a><a href="#">Servis a záruka</a><a href="#">Kontakt</a><div class="nav-mobile-cta" style="display:flex"><a class="btn btn-primary" style="width:100%" href="#">Nezávazná poptávka</a></div></div></div></div>
+
+ <div class="sg-block"><h2>Karty</h2>
+  <h3 class="h4" style="margin-bottom:12px">Produkt</h3>
+  <div class="grid grid-4"><a class="card-product reveal" href="produkty/soul-series-2/index.html" data-category="citrusy" data-demand="stredni" data-business="kavarny hotely bary" data-search="Soul Series 2 Soul Series 2 Soul Series 2 Limes edition Soul Series 2 přináší automatické lisování citrusů i na bar, kde je každý centimetr důležitý. Se šířkou 30 cm nabízí čerstvou šťávu na objednávku v kavárně, koktejlovém baru nebo hotelu. Conical System® ovoce před rozříznutím vystředí a připraví pro lisování.">
+ <div class="card-media"><img src="assets/main0.png" alt="Soul Series 2" loading="lazy"></div>
+ <div class="card-body">
+  <span class="caption">Lisy na citrusy</span>
+  <h3 class="card-title">Soul Series 2</h3>
+  <p class="card-text">Soul Series 2 přináší automatické lisování citrusů i na bar, kde je každý centimetr důležitý.</p>
+  <ul class="card-specs"><li>Výkon M/S<strong>18 plodů/min</strong></li><li>Výkon XS<strong>36 limetek/min</strong></li></ul>
+  <div class="card-foot"><span class="small"><b>Detail a parametry</b></span><span class="card-arrow"><svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M5 12h14M13 6l6 6-6 6"/></svg></span></div>
+ </div>
+</a><a class="card-product reveal" href="produkty/minex/index.html" data-category="citrusy" data-demand="mirna" data-business="kavarny hotely" data-search="Minex Minex je automatický pomerančový lis pro provozy s mírnější spotřebou: malé kavárny, pekárny i hotelové snídaně. Ovoce postupně vkládáte do podavače a šťávu podáváte čerstvou přímo hostovi.">
+ <div class="card-media"><span class="card-tag">Štítek</span><img src="assets/main1.png" alt="Minex" loading="lazy"></div>
+ <div class="card-body">
+  <span class="caption">Lisy na citrusy</span>
+  <h3 class="card-title">Minex</h3>
+  <p class="card-text">Minex je automatický pomerančový lis pro provozy s mírnější spotřebou: malé kavárny, pekárny i hotelové snídaně.</p>
+  <ul class="card-specs"><li>Výkon<strong>13 pomerančů/min</strong></li><li>Zásobník<strong>6–7 plodů</strong></li></ul>
+  <div class="card-foot"><span class="small"><b>Detail a parametry</b></span><span class="card-arrow"><svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M5 12h14M13 6l6 6-6 6"/></svg></span></div>
+ </div>
+</a>
+   <div class="card-product"><div class="card-media is-empty"><svg class="icon icon-lg" viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="4" width="18" height="16" rx="2"/><circle cx="9" cy="10" r="2"/><path d="m21 16-5-5-9 9"/></svg></div><div class="card-body"><span class="caption">Kategorie</span><h3 class="card-title">Prázdný stav obrázku</h3><p class="card-text">Když produkt zatím nemá fotku.</p></div></div></div>
+  <h3 class="h4" style="margin:32px 0 12px">Provoz</h3>
+  <div class="grid grid-3"><a class="card-segment" href="#"><div><h3>Kavárny, bary a hotely</h3><p>Od malého baru po snídaňový bufet.</p><span class="btn-text">Objevit lisy <svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M5 12h14M13 6l6 6-6 6"/></svg></span></div><img src="assets/main0.png" alt=""></a>
+   <a class="card-segment card-segment--dark" href="#"><div><h3>Průmyslová výroba šťáv</h3><p>Mytí, lisování, plnění i čištění.</p><span class="btn-text">Průmyslové technologie <svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M5 12h14M13 6l6 6-6 6"/></svg></span></div><img src="assets/12-0.webp" alt=""></a>
+   <div class="card-variant"><div class="card-media"><img src="assets/v4-1.png" alt=""></div><div class="card-body"><h3>Varianta produktu</h3><p>Širší samostatný komplet pro samoobslužný prostor.</p><a class="btn-text" href="#">Poptat variantu <svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M5 12h14M13 6l6 6-6 6"/></svg></a></div></div></div>
+  <h3 class="h4" style="margin:32px 0 12px">Kontakt, technologie, dokument</h3>
+  <div class="grid grid-4">
+ <div class="card card-contact reveal"><span class="icon-tile"><svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 21s-7-6.2-7-12a7 7 0 0 1 14 0c0 5.8-7 12-7 12z"/><circle cx="12" cy="9" r="2.5"/></svg></span><h3>Adresa</h3><p>Kouřimská 2368/4<br>130 00 Praha 3<br>Česká republika</p><a class="link" href="https://www.google.com/maps/search/?api=1&query=KARMEB+Kou%C5%99imsk%C3%A1+4+Praha" target="_blank" rel="noopener">Zobrazit na mapě</a></div>
+ <div class="card card-contact reveal"><span class="icon-tile"><svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M5 4h4l2 5-2.5 1.5a11 11 0 0 0 5 5L15 13l5 2v4a2 2 0 0 1-2 2A16 16 0 0 1 3 6a2 2 0 0 1 2-2"/></svg></span><h3>Telefony</h3><a href="tel:+420272740832">+420 272 740 832</a><a href="tel:+420272738859">+420 272 738 859</a><a href="tel:+420724011902">+420 724 011 902</a><span class="caption">servisní mobil</span><a href="tel:+420603140893">+420 603 140 893</a><span class="caption">mobil</span></div>
+ <div class="card card-contact reveal"><span class="icon-tile"><svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="5" width="18" height="14" rx="2"/><path d="m3 7 9 6 9-6"/></svg></span><h3>E-mail</h3><a href="mailto:gastro@karmeb.com">gastro@karmeb.com</a><span class="caption">obchod</span><a href="mailto:servis@karmeb.com">servis@karmeb.com</a><span class="caption">servis</span></div>
+ <div class="card card-contact card-contact--accent reveal"><span class="icon-tile"><svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><circle cx="9" cy="20" r="1.4"/><circle cx="18" cy="20" r="1.4"/><path d="M3 4h2l2.4 11h11L21 8H6.2"/></svg></span><h3>E-shop</h3><p>Vybavení a stroje také online.</p><div style="margin-top:12px"><a class="btn btn-accent btn-sm" href="https://www.gastronakup.cz/" rel="noopener">gastronakup.cz <svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M7 17 17 7M8 7h9v9"/></svg></a></div></div>
+</div>
+  <div class="grid grid-3" style="margin-top:16px"><div class="card"><h3>Conical System®</h3><p>Ovoce se před řezem vystředí, takže řez je přesný a čistý.</p></div>
+   <a class="doc" href="#"><span class="icon-tile"><svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M14 3H7a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2V8z"/><path d="M14 3v5h5M9 13h6M9 17h4"/></svg></span><div>Technický list<span>PDF, 1,6 MB</span></div></a>
+   <div class="stat"><strong>18 plodů/min</strong><span>Výkon se sadou M/S</span></div></div></div>
+
+ <div class="sg-block"><h2>Formulářové prvky</h2>
+  <div class="grid grid-3">
+   <div class="field"><label for="sg1">Jméno a firma</label><input class="input" id="sg1" placeholder="Jana Nováková, Kavárna U Lípy"></div>
+   <div class="field"><label for="sg2">Typ provozu</label><select class="select" id="sg2"><option>Kavárna nebo bar</option><option>Hotel</option><option>Obchod</option></select></div>
+   <div class="field is-error"><label for="sg3">E-mail</label><input class="input" id="sg3" value="jana@"><span class="field-error">Zadejte prosím platný e-mail.</span></div>
+   <div class="field" style="grid-column:span 2"><label for="sg4">Zpráva</label><textarea class="textarea" id="sg4" placeholder="Kolik šťávy denně připravujete?"></textarea></div>
+   <div class="field"><span class="label">Volby</span><label class="check"><input type="checkbox" checked> Lisy na citrusy</label><label class="check"><input type="checkbox"> Samočisticí lisy</label></div>
+   <div class="field"><span class="label">Vyhledávání</span><div class="input-search"><svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg><input class="input" type="search" placeholder="Model, ovoce, použití"></div></div>
+   <div class="field" style="grid-column:span 2"><span class="label">Filtry</span><div class="chips"><label class="chip"><input type="checkbox" checked>Lisy na citrusy</label><label class="chip"><input type="checkbox">Samočisticí lisy</label><label class="chip"><input type="checkbox">Cold Press</label></div></div>
+  </div></div>
+
+ <div class="sg-block"><h2>Bloky</h2>
+  <div class="accordion"><details open><summary>Mezinárodní záruka 2 roky<svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 5v14M5 12h14"/></svg></summary><div class="accordion-body"><p>Rozsah záruky a její uplatnění se řídí podmínkami výrobce pro konkrétní zařízení. Připravte si doklad o nákupu a výrobní číslo, s dalším postupem vám pomůže náš servis.</p><a class="link" href="https://www.zumex.com/en/warranty-conditions/" target="_blank" rel="noopener">Záruční podmínky výrobce</a></div></details><details><summary>Originální náhradní díly<svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 5v14M5 12h14"/></svg></summary><div class="accordion-body"><p>Pomůžeme určit správný originální díl pro váš model. Pošlete nám označení stroje, výrobní číslo a ideálně fotografii potřebného dílu.</p><a class="link" href="mailto:servis@karmeb.com?subject=N%C3%A1hradn%C3%AD%20d%C3%ADly%20Zumex">Poptat náhradní díl</a></div></details></div>
+  <div style="margin-top:24px" class="cta-band"><div><h2>Nevíte, který lis vybrat?</h2><p>Doporučíme konkrétní model a konfiguraci.</p></div><div class="btn-row"><a class="btn btn-primary btn-lg" href="#"><svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M5 4h4l2 5-2.5 1.5a11 11 0 0 0 5 5L15 13l5 2v4a2 2 0 0 1-2 2A16 16 0 0 1 3 6a2 2 0 0 1 2-2"/></svg> +420 272 740 832</a><a class="btn btn-secondary btn-lg" href="#">Napsat e-mail</a></div></div>
+  <div style="margin-top:16px" class="cta-band cta-band--dark"><div><h2>Tmavá varianta CTA</h2><p>Pro stránky, kde je oranžová už jinde.</p></div><div class="btn-row"><a class="btn btn-accent btn-lg" href="#">Zavolat</a></div></div>
+  <div style="margin-top:16px" class="cta-inline"><div><h3 class="h4">Co zvážit při výběru</h3><p class="small muted">Malý CTA blok uvnitř stránky.</p></div><a class="btn btn-primary" href="#">Probrat konfiguraci</a></div>
+  <div class="tabs" style="position:static;margin-top:24px"><div class="tabs-inner"><a class="is-active" href="#">Přehled</a><a href="#">Suroviny</a><a href="#">Varianty</a><a href="#">Rozměry</a><a href="#">Parametry</a></div></div>
+  <dl class="spec-table" style="margin-top:24px"><div><dt>Výkon</dt><dd>18 plodů/min</dd></div><div><dt>Zásobník</dt><dd>3–6 pomerančů</dd></div><div><dt>Příkon</dt><dd>100 W</dd></div><div><dt>Napájení</dt><dd>100–240 V, 50–60 Hz</dd></div></dl>
+  <blockquote class="quote" style="margin-top:28px">Šťáva nepřijde do kontaktu se slupkou, proto zůstává sladká a bez hořkosti.</blockquote>
+  <p class="small muted" style="margin-top:20px">Patička je vidět dole na této stránce.</p></div>
+
+ <div class="sg-block"><h2>Ikony a grafika</h2><div class="sg-row"><span class="icon-tile" title="arrow"><svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M5 12h14M13 6l6 6-6 6"/></svg></span><span class="icon-tile" title="arrow-up-right"><svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M7 17 17 7M8 7h9v9"/></svg></span><span class="icon-tile" title="search"><svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg></span><span class="icon-tile" title="phone"><svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M5 4h4l2 5-2.5 1.5a11 11 0 0 0 5 5L15 13l5 2v4a2 2 0 0 1-2 2A16 16 0 0 1 3 6a2 2 0 0 1 2-2"/></svg></span><span class="icon-tile" title="mail"><svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="5" width="18" height="14" rx="2"/><path d="m3 7 9 6 9-6"/></svg></span><span class="icon-tile" title="pin"><svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 21s-7-6.2-7-12a7 7 0 0 1 14 0c0 5.8-7 12-7 12z"/><circle cx="12" cy="9" r="2.5"/></svg></span><span class="icon-tile" title="download"><svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 4v11m0 0-4.5-4.5M12 15l4.5-4.5M5 20h14"/></svg></span><span class="icon-tile" title="file"><svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M14 3H7a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2V8z"/><path d="M14 3v5h5M9 13h6M9 17h4"/></svg></span><span class="icon-tile" title="menu"><svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M4 7h16M4 12h16M4 17h16"/></svg></span><span class="icon-tile" title="close"><svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M6 6l12 12M18 6 6 18"/></svg></span><span class="icon-tile" title="plus"><svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 5v14M5 12h14"/></svg></span><span class="icon-tile" title="drop"><svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3s6 6.4 6 11a6 6 0 0 1-12 0c0-4.6 6-11 6-11z"/></svg></span><span class="icon-tile" title="briefcase"><svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="7" width="18" height="13" rx="2"/><path d="M9 7V5a2 2 0 0 1 2-2h2a2 2 0 0 1 2 2v2M3 13h18"/></svg></span><span class="icon-tile" title="flag"><svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M5 21V4m0 1c5-4 9 3 14-1v10c-5 4-9-3-14 1"/></svg></span><span class="icon-tile" title="headset"><svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M4 15v-3a8 8 0 0 1 16 0v3"/><rect x="3" y="14" width="4" height="6" rx="1.5"/><rect x="17" y="14" width="4" height="6" rx="1.5"/></svg></span><span class="icon-tile" title="cart"><svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><circle cx="9" cy="20" r="1.4"/><circle cx="18" cy="20" r="1.4"/><path d="M3 4h2l2.4 11h11L21 8H6.2"/></svg></span><span class="icon-tile" title="filter"><svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M4 6h16M7 12h10M10 18h4"/></svg></span><span class="icon-tile" title="wrench"><svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M14.5 5.5a4 4 0 0 0 5 5L12 18a2.1 2.1 0 0 1-3-3z"/><path d="M14.5 5.5 17 3"/></svg></span><span class="icon-tile" title="shield"><svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3 5 6v6c0 4.5 3 7.5 7 9 4-1.5 7-4.5 7-9V6z"/><path d="m9 12 2 2 4-4"/></svg></span><span class="icon-tile" title="chevron-left"><svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><path d="m15 6-6 6 6 6"/></svg></span><span class="icon-tile" title="chevron-right"><svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><path d="m9 6 6 6-6 6"/></svg></span><span class="icon-tile" title="check"><svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><path d="m5 12 4.5 4.5L19 7"/></svg></span><span class="icon-tile" title="image"><svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="4" width="18" height="16" rx="2"/><circle cx="9" cy="10" r="2"/><path d="m21 16-5-5-9 9"/></svg></span></div>
+  <div class="sg-row" style="margin-top:24px"><img src="assets/logo.webp" alt="" style="height:48px;width:auto"><div style="background:var(--dark);padding:16px 20px;border-radius:var(--r-md)"><img src="assets/logo-white.webp" alt="" style="height:48px;width:auto"></div><img src="assets/vyrobeno-ve-spanelsku.webp" alt="" style="height:110px;width:auto">
+   <img src="assets/ovoce/pomeranc.svg" alt="" style="height:64px;width:auto"><img src="assets/ovoce/mandarinka.svg" alt="" style="height:64px;width:auto"><img src="assets/ovoce/citron.svg" alt="" style="height:64px;width:auto"><img src="assets/ovoce/limetka.svg" alt="" style="height:64px;width:auto"><img src="assets/ovoce/granatove-jablko.svg" alt="" style="height:64px;width:auto"><img src="assets/ovoce/jablko.svg" alt="" style="height:64px;width:auto"><img src="assets/ovoce/mrkev.svg" alt="" style="height:64px;width:auto"><img src="assets/ovoce/ananas.svg" alt="" style="height:64px;width:auto"></div>
+  <div class="swatches" style="margin-top:28px;justify-content:flex-start"><li style="list-style:none"><span class="swatch" style="background:linear-gradient(90deg,#151515 50%,transparent 50%),radial-gradient(circle,rgba(255,255,255,.4) 1.3px,transparent 1.9px) 0 0/6px 6px,#8b8e91"></span>Black Smoke Grey</li><li style="list-style:none"><span class="swatch" style="background:#f26b21"></span>Pample Orange</li></div></div>
+
+ <div class="sg-block"><h2>Obrazový styl</h2>
+  <div class="grid grid-3"><div class="product-media" style="aspect-ratio:1/1"><img src="assets/main0.png" alt=""></div>
+   <div class="hero-media" style="aspect-ratio:1/1"><img class="hero-photo" src="assets/hero-soul-sunset.webp" alt=""></div>
+   <div class="gallery gallery--single"><figure><img src="assets/g4-0.webp" alt="" style="height:100%;aspect-ratio:1/1"></figure></div></div>
+  <p class="small muted" style="margin-top:16px">Produkty vždy na světle šedém podkladu se zaoblením 24 až 36 px. Atmosférické fotky ve stejném zaoblení, bez ztmavujících overlayů.</p></div>
+</div></section>
+</main>
+<footer class="site-footer">
+ <div class="container">
+  <div class="footer-grid">
+   <div>
+    <img class="footer-logo" src="assets/logo-white.webp" alt="Zumex" width="480" height="183">
+    <p>Autorizovaný zástupce Zumex pro Českou republiku a Slovensko. Prodej, servis a originální náhradní díly.</p>
+   </div>
+   <div><h3>Produkty</h3><ul><li><a href="produkty/index.html#citrusy">Lisy na citrusy</a></li><li><a href="produkty/index.html#samocistici">Samočisticí lisy</a></li><li><a href="produkty/index.html#multifruit">Ovoce a zelenina</a></li><li><a href="produkty/index.html#cold-press">Cold Press</a></li><li><a href="produkty/index.html#prumyslove">Průmyslové technologie</a></li></ul></div>
+   <div><h3>Služby</h3><ul>
+    <li><a href="index.html#servis">Servis a záruka</a></li>
+    <li><a href="kontakt/index.html">Kontakt</a></li>
+    <li><a href="https://www.gastronakup.cz/" rel="noopener">E-shop gastronakup.cz</a></li>
+    <li><a href="https://www.zumex.com/en/" rel="noopener" target="_blank">Oficiální katalog Zumex</a></li>
+   </ul></div>
+   <div><h3>KARMEB spol. s r.o.</h3><ul>
+    <li><p>Kouřimská 2368/4<br>130 00 Praha 3</p></li>
+    <li><a href="tel:+420272740832">+420 272 740 832</a></li>
+    <li><a href="mailto:gastro@karmeb.com">gastro@karmeb.com</a></li>
+   </ul></div>
+  </div>
+  <div class="footer-bottom">
+   <span>© 2026 KARMEB spol. s r.o. Fotografie a produktové podklady: Zumex Group.</span>
+   <a href="styleguide.html">Styleguide</a>
+  </div>
+ </div>
+</footer>
+<script src="assets/js/site.js" defer></script>
+</body>
+</html>
